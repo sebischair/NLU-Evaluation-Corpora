@@ -1,15 +1,21 @@
 # README
 This project is a collection of three corpora which can be used for evaluating chatbots or other conversational interfaces. Two of the corpora were extracted from [StackExchange](https://data.stackexchange.com/), one from a Telegram chatbot.
 
-If you use the data and publish please let us know and cite our SIGdial 2017 paper:
+If you use the data and publish please let us know and cite our [SIGdial 2017 paper](http://www.sigdial.org/workshops/conference18/proceedings/pdf/SIGDIAL22.pdf):
 
 ```
-@inproceedings{braun2017evaluatingNLUServices,
-  title={Evaluating Natural Language Understanding Services for Conversational Question Answering Systems},
-  author={Braun, Daniel and Hernandez Mendez, Adrian and Matthes, Florian and Langen, Manfred},
-  booktitle={Proceedings of the SIGDIAL 2017 Conference},
-  year={2017}
+@InProceedings{braun-EtAl:2017:SIGDIAL,
+  author    = {Braun, Daniel  and  Hernandez-Mendez, Adrian  and  Matthes, Florian  and  Langen, Manfred},
+  title     = {Evaluating Natural Language Understanding Services for Conversational Question Answering Systems},
+  booktitle = {Proceedings of the 18th Annual SIGdial Meeting on Discourse and Dialogue},
+  month     = {August},
+  year      = {2017},
+  address   = {Saarbrücken, Germany},
+  publisher = {Association for Computational Linguistics},
+  pages     = {174--185},
+  url       = {http://www.aclweb.org/anthology/W17-3622}
 }
+
 ```
 
 ## License
