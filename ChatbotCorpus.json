@@ -2,14 +2,15 @@
   "name": "ChatbotCorpus",
   "desc": "Visit https://github.com/sebischair/NLU-Evaluation-Corpora for more information",
   "sentences": [
-  {
+    {
       "text": "i want to go marienplatz",
       "intent": "FindConnection",
       "entities": [
         {
           "entity": "StationDest",
           "start": 4,
-          "stop": 4
+          "stop": 4,
+          "text": "marienplatz"
         }
       ]
     },
@@ -20,17 +21,20 @@
         {
           "entity": "Vehicle",
           "start": 4,
-          "stop": 4
+          "stop": 4,
+          "text": "train"
         },
         {
           "entity": "Criterion",
           "start": 3,
-          "stop": 3
+          "stop": 3,
+          "text": "next"
         },
         {
           "entity": "StationStart",
           "start": 6,
-          "stop": 7
+          "stop": 7,
+          "text": "muncher freiheit"
         }
       ]
     },
@@ -41,17 +45,20 @@
         {
           "entity": "Vehicle",
           "start": 4,
-          "stop": 6
+          "stop": 6,
+          "text": "u-bahn"
         },
         {
           "entity": "Criterion",
           "start": 3,
-          "stop": 3
+          "stop": 3,
+          "text": "next"
         },
         {
           "entity": "StationStart",
           "start": 9,
-          "stop": 10
+          "stop": 10,
+          "text": "garching forschungszentrum"
         }
       ]
     },
@@ -62,38 +69,44 @@
         {
           "entity": "StationStart",
           "start": 1,
-          "stop": 2
+          "stop": 2,
+          "text": "olympia einkaufszentrum"
         },
         {
           "entity": "StationDest",
           "start": 4,
-          "stop": 4
+          "stop": 4,
+          "text": "hauptbahnhof"
         }
       ]
     },
-  {
+    {
       "text": "when is the next train from winterstraße 12 to kieferngarten",
       "intent": "FindConnection",
       "entities": [
         {
           "entity": "Vehicle",
           "start": 4,
-          "stop": 4
+          "stop": 4,
+          "text": "train"
         },
         {
           "entity": "Criterion",
           "start": 3,
-          "stop": 3
+          "stop": 3,
+          "text": "next"
         },
         {
           "entity": "StationStart",
           "start": 6,
-          "stop": 7
+          "stop": 7,
+          "text": "winterstraße 12"
         },
         {
           "entity": "StationDest",
           "start": 9,
-          "stop": 9
+          "stop": 9,
+          "text": "kieferngarten"
         }
       ]
     },
@@ -104,22 +117,26 @@
         {
           "entity": "Vehicle",
           "start": 4,
-          "stop": 4
+          "stop": 4,
+          "text": "rocket"
         },
         {
           "entity": "Criterion",
           "start": 3,
-          "stop": 3
+          "stop": 3,
+          "text": "next"
         },
         {
           "entity": "StationStart",
           "start": 6,
-          "stop": 7
+          "stop": 7,
+          "text": "winterstraße 12"
         },
         {
           "entity": "StationDest",
           "start": 9,
-          "stop": 9
+          "stop": 9,
+          "text": "kieferngarte"
         }
       ]
     },
@@ -130,12 +147,14 @@
         {
           "entity": "StationStart",
           "start": 6,
-          "stop": 6
+          "stop": 6,
+          "text": "garching"
         },
         {
           "entity": "StationDest",
           "start": 8,
-          "stop": 8
+          "stop": 8,
+          "text": "hauptbahnhof"
         }
       ]
     },
@@ -146,12 +165,14 @@
         {
           "entity": "StationStart",
           "start": 4,
-          "stop": 6
+          "stop": 6,
+          "text": "untere strassäcker 21"
         },
         {
           "entity": "StationDest",
           "start": 8,
-          "stop": 8
+          "stop": 8,
+          "text": "fröttmaning"
         }
       ]
     },
@@ -162,12 +183,14 @@
         {
           "entity": "StationStart",
           "start": 5,
-          "stop": 5
+          "stop": 5,
+          "text": "marienplatz"
         },
         {
           "entity": "StationDest",
           "start": 7,
-          "stop": 7
+          "stop": 7,
+          "text": "garching"
         }
       ]
     },
@@ -178,12 +201,14 @@
         {
           "entity": "StationStart",
           "start": 2,
-          "stop": 2
+          "stop": 2,
+          "text": "boltzmannstraße"
         },
         {
           "entity": "StationDest",
           "start": 4,
-          "stop": 4
+          "stop": 4,
+          "text": "kieferngarten"
         }
       ]
     },
@@ -194,12 +219,14 @@
         {
           "entity": "StationStart",
           "start": 4,
-          "stop": 5
+          "stop": 5,
+          "text": "bonner platz"
         },
         {
           "entity": "StationDest",
           "start": 7,
-          "stop": 7
+          "stop": 7,
+          "text": "freimann"
         }
       ]
     },
@@ -210,17 +237,20 @@
         {
           "entity": "Vehicle",
           "start": 4,
-          "stop": 6
+          "stop": 6,
+          "text": "s-bahn"
         },
         {
           "entity": "Criterion",
           "start": 3,
-          "stop": 3
+          "stop": 3,
+          "text": "next"
         },
         {
           "entity": "StationStart",
           "start": 9,
-          "stop": 9
+          "stop": 9,
+          "text": "garching"
         }
       ]
     },
@@ -231,12 +261,14 @@
         {
           "entity": "StationStart",
           "start": 5,
-          "stop": 5
+          "stop": 5,
+          "text": "oez"
         },
         {
           "entity": "StationDest",
           "start": 7,
-          "stop": 7
+          "stop": 7,
+          "text": "hbf"
         }
       ]
     },
@@ -247,12 +279,14 @@
         {
           "entity": "StationStart",
           "start": 4,
-          "stop": 5
+          "stop": 5,
+          "text": "winterstrasse 12"
         },
         {
           "entity": "StationDest",
           "start": 7,
-          "stop": 7
+          "stop": 7,
+          "text": "fröttmaning"
         }
       ]
     },
@@ -263,12 +297,14 @@
         {
           "entity": "StationStart",
           "start": 5,
-          "stop": 6
+          "stop": 6,
+          "text": "garching forschungszentrum"
         },
         {
           "entity": "StationDest",
           "start": 8,
-          "stop": 8
+          "stop": 8,
+          "text": "pasing"
         }
       ]
     },
@@ -279,12 +315,14 @@
         {
           "entity": "StationStart",
           "start": 0,
-          "stop": 0
+          "stop": 0,
+          "text": "theresienstraße"
         },
         {
           "entity": "StationDest",
           "start": 2,
-          "stop": 2
+          "stop": 2,
+          "text": "assling"
         }
       ]
     },
@@ -295,33 +333,38 @@
         {
           "entity": "StationStart",
           "start": 5,
-          "stop": 5
+          "stop": 5,
+          "text": "theresienstraße"
         },
         {
           "entity": "StationDest",
           "start": 7,
-          "stop": 8
+          "stop": 8,
+          "text": "munich east"
         }
       ]
     },
-  {
+    {
       "text": "when does the next bus starts from garching?",
       "intent": "DepartureTime",
       "entities": [
         {
           "entity": "Vehicle",
           "start": 4,
-          "stop": 4
+          "stop": 4,
+          "text": "bus"
         },
         {
           "entity": "Criterion",
           "start": 3,
-          "stop": 3
+          "stop": 3,
+          "text": "next"
         },
         {
           "entity": "StationStart",
           "start": 7,
-          "stop": 7
+          "stop": 7,
+          "text": "garching"
         }
       ]
     },
@@ -332,12 +375,14 @@
         {
           "entity": "StationStart",
           "start": 1,
-          "stop": 1
+          "stop": 1,
+          "text": "quiddestraße"
         },
         {
           "entity": "StationDest",
           "start": 3,
-          "stop": 3
+          "stop": 3,
+          "text": "garching"
         }
       ]
     },
@@ -348,12 +393,14 @@
         {
           "entity": "StationStart",
           "start": 6,
-          "stop": 10
+          "stop": 10,
+          "text": "kurt-eisner-straße"
         },
         {
           "entity": "StationDest",
           "start": 12,
-          "stop": 13
+          "stop": 13,
+          "text": "garching forschungszentrum"
         }
       ]
     },
@@ -364,12 +411,14 @@
         {
           "entity": "StationStart",
           "start": 6,
-          "stop": 6
+          "stop": 6,
+          "text": "quiddestraße"
         },
         {
           "entity": "StationDest",
           "start": 8,
-          "stop": 9
+          "stop": 9,
+          "text": "garching forschungszentrum"
         }
       ]
     },
@@ -380,17 +429,20 @@
         {
           "entity": "Vehicle",
           "start": 4,
-          "stop": 4
+          "stop": 4,
+          "text": "train"
         },
         {
           "entity": "Criterion",
           "start": 3,
-          "stop": 3
+          "stop": 3,
+          "text": "next"
         },
         {
           "entity": "StationStart",
           "start": 7,
-          "stop": 7
+          "stop": 7,
+          "text": "garching"
         }
       ]
     },
@@ -401,12 +453,14 @@
         {
           "entity": "StationStart",
           "start": 1,
-          "stop": 1
+          "stop": 1,
+          "text": "hauptbahnhof"
         },
         {
           "entity": "StationDest",
           "start": 3,
-          "stop": 3
+          "stop": 3,
+          "text": "garching"
         }
       ]
     },
@@ -417,12 +471,14 @@
         {
           "entity": "StationStart",
           "start": 7,
-          "stop": 8
+          "stop": 8,
+          "text": "garching forschungszentrum"
         },
         {
           "entity": "StationDest",
           "start": 5,
-          "stop": 5
+          "stop": 5,
+          "text": "glockenbachviertel"
         }
       ]
     },
@@ -433,12 +489,14 @@
         {
           "entity": "StationStart",
           "start": 5,
-          "stop": 5
+          "stop": 5,
+          "text": "garching"
         },
         {
           "entity": "StationDest",
           "start": 7,
-          "stop": 7
+          "stop": 7,
+          "text": "nordfriedhof"
         }
       ]
     },
@@ -449,33 +507,38 @@
         {
           "entity": "StationStart",
           "start": 7,
-          "stop": 8
+          "stop": 8,
+          "text": "garching forschungszentrum"
         },
         {
           "entity": "StationDest",
           "start": 5,
-          "stop": 5
+          "stop": 5,
+          "text": "glockenbachviertel"
         }
       ]
     },
-  	{
+    {
       "text": "when is the next train leaving in garching forschungszentrum",
       "intent": "DepartureTime",
       "entities": [
         {
           "entity": "Vehicle",
           "start": 4,
-          "stop": 4
+          "stop": 4,
+          "text": "train"
         },
         {
           "entity": "Criterion",
           "start": 3,
-          "stop": 3
+          "stop": 3,
+          "text": "next"
         },
         {
           "entity": "StationStart",
           "start": 7,
-          "stop": 8
+          "stop": 8,
+          "text": "garching forschungszentrum"
         }
       ]
     },
@@ -486,12 +549,14 @@
         {
           "entity": "StationStart",
           "start": 5,
-          "stop": 5
+          "stop": 5,
+          "text": "moosach"
         },
         {
           "entity": "StationDest",
           "start": 7,
-          "stop": 7
+          "stop": 7,
+          "text": "quiddestraße"
         }
       ]
     },
@@ -502,12 +567,14 @@
         {
           "entity": "StationStart",
           "start": 5,
-          "stop": 5
+          "stop": 5,
+          "text": "moosach"
         },
         {
           "entity": "StationDest",
           "start": 7,
-          "stop": 7
+          "stop": 7,
+          "text": "poccistraße"
         }
       ]
     },
@@ -518,12 +585,14 @@
         {
           "entity": "StationStart",
           "start": 5,
-          "stop": 9
+          "stop": 9,
+          "text": "kurt-eisner-straße"
         },
         {
           "entity": "StationDest",
           "start": 11,
-          "stop": 12
+          "stop": 12,
+          "text": "garching forschungszentrum"
         }
       ]
     },
@@ -534,12 +603,14 @@
         {
           "entity": "StationStart",
           "start": 8,
-          "stop": 8
+          "stop": 8,
+          "text": "?"
         },
         {
           "entity": "StationDest",
           "start": 7,
-          "stop": 7
+          "stop": 7,
+          "text": "quiddestraße"
         }
       ]
     },
@@ -550,12 +621,14 @@
         {
           "entity": "StationStart",
           "start": 5,
-          "stop": 5
+          "stop": 5,
+          "text": "moosach"
         },
         {
           "entity": "StationDest",
           "start": 7,
-          "stop": 7
+          "stop": 7,
+          "text": "odeonsplatz"
         }
       ]
     },
@@ -566,17 +639,20 @@
         {
           "entity": "Vehicle",
           "start": 4,
-          "stop": 4
+          "stop": 4,
+          "text": "bus"
         },
         {
           "entity": "Criterion",
           "start": 3,
-          "stop": 3
+          "stop": 3,
+          "text": "next"
         },
         {
           "entity": "StationStart",
           "start": 7,
-          "stop": 7
+          "stop": 7,
+          "text": "garching"
         }
       ]
     },
@@ -587,17 +663,20 @@
         {
           "entity": "Criterion",
           "start": 4,
-          "stop": 4
+          "stop": 4,
+          "text": "shortest"
         },
         {
           "entity": "StationStart",
           "start": 7,
-          "stop": 7
+          "stop": 7,
+          "text": "quiddestraße"
         },
         {
           "entity": "StationDest",
           "start": 9,
-          "stop": 9
+          "stop": 9,
+          "text": "odeonsplatz"
         }
       ]
     },
@@ -608,17 +687,20 @@
         {
           "entity": "Vehicle",
           "start": 4,
-          "stop": 4
+          "stop": 4,
+          "text": "bus"
         },
         {
           "entity": "Criterion",
           "start": 3,
-          "stop": 3
+          "stop": 3,
+          "text": "next"
         },
         {
           "entity": "StationStart",
           "start": 6,
-          "stop": 6
+          "stop": 6,
+          "text": "ostbahnhof"
         }
       ]
     },
@@ -629,12 +711,14 @@
         {
           "entity": "StationStart",
           "start": 5,
-          "stop": 5
+          "stop": 5,
+          "text": "garching"
         },
         {
           "entity": "StationDest",
           "start": 7,
-          "stop": 8
+          "stop": 8,
+          "text": "neuperlach sued"
         }
       ]
     },
@@ -645,17 +729,20 @@
         {
           "entity": "Vehicle",
           "start": 4,
-          "stop": 4
+          "stop": 4,
+          "text": "train"
         },
         {
           "entity": "Criterion",
           "start": 3,
-          "stop": 3
+          "stop": 3,
+          "text": "next"
         },
         {
           "entity": "StationStart",
           "start": 6,
-          "stop": 7
+          "stop": 7,
+          "text": "munchner freiheit"
         }
       ]
     },
@@ -666,12 +753,14 @@
         {
           "entity": "StationStart",
           "start": 5,
-          "stop": 5
+          "stop": 5,
+          "text": "marienplatz"
         },
         {
           "entity": "StationDest",
           "start": 7,
-          "stop": 7
+          "stop": 7,
+          "text": "garching"
         }
       ]
     },
@@ -682,12 +771,14 @@
         {
           "entity": "StationStart",
           "start": 5,
-          "stop": 5
+          "stop": 5,
+          "text": "poccistraße"
         },
         {
           "entity": "StationDest",
           "start": 7,
-          "stop": 7
+          "stop": 7,
+          "text": "laim"
         }
       ]
     },
@@ -698,12 +789,14 @@
         {
           "entity": "StationStart",
           "start": 6,
-          "stop": 6
+          "stop": 6,
+          "text": "marienplatz"
         },
         {
           "entity": "StationDest",
           "start": 4,
-          "stop": 4
+          "stop": 4,
+          "text": "garching"
         }
       ]
     },
@@ -714,12 +807,14 @@
         {
           "entity": "StationStart",
           "start": 5,
-          "stop": 5
+          "stop": 5,
+          "text": "marienplatz"
         },
         {
           "entity": "StationDest",
           "start": 7,
-          "stop": 7
+          "stop": 7,
+          "text": "garching"
         }
       ]
     },
@@ -730,12 +825,14 @@
         {
           "entity": "StationStart",
           "start": 5,
-          "stop": 5
+          "stop": 5,
+          "text": "hauptbahnhof"
         },
         {
           "entity": "StationDest",
           "start": 7,
-          "stop": 7
+          "stop": 7,
+          "text": "odeonsplatz"
         }
       ]
     },
@@ -746,12 +843,14 @@
         {
           "entity": "StationStart",
           "start": 0,
-          "stop": 0
+          "stop": 0,
+          "text": "prinzregentenplatz"
         },
         {
           "entity": "StationDest",
           "start": 2,
-          "stop": 2
+          "stop": 2,
+          "text": "rotkreuzplatz"
         }
       ]
     },
@@ -762,12 +861,14 @@
         {
           "entity": "StationStart",
           "start": 7,
-          "stop": 7
+          "stop": 7,
+          "text": "marienplatz"
         },
         {
           "entity": "StationDest",
           "start": 5,
-          "stop": 5
+          "stop": 5,
+          "text": "garching"
         }
       ]
     },
@@ -778,17 +879,20 @@
         {
           "entity": "Criterion",
           "start": 0,
-          "stop": 0
+          "stop": 0,
+          "text": "next"
         },
         {
           "entity": "Vehicle",
           "start": 1,
-          "stop": 1
+          "stop": 1,
+          "text": "train"
         },
         {
           "entity": "StationStart",
           "start": 3,
-          "stop": 3
+          "stop": 3,
+          "text": "garching"
         }
       ]
     },
@@ -799,12 +903,14 @@
         {
           "entity": "StationStart",
           "start": 1,
-          "stop": 1
+          "stop": 1,
+          "text": "prinzregentenplatz"
         },
         {
           "entity": "StationDest",
           "start": 3,
-          "stop": 3
+          "stop": 3,
+          "text": "rotkreuzplatz"
         }
       ]
     },
@@ -815,17 +921,20 @@
         {
           "entity": "Vehicle",
           "start": 4,
-          "stop": 4
+          "stop": 4,
+          "text": "subway"
         },
         {
           "entity": "Criterion",
           "start": 3,
-          "stop": 3
+          "stop": 3,
+          "text": "next"
         },
         {
           "entity": "StationStart",
           "start": 6,
-          "stop": 7
+          "stop": 7,
+          "text": "garching forschungszentrum"
         }
       ]
     },
@@ -836,12 +945,14 @@
         {
           "entity": "StationStart",
           "start": 1,
-          "stop": 1
+          "stop": 1,
+          "text": "garching"
         },
         {
           "entity": "StationDest",
           "start": 3,
-          "stop": 3
+          "stop": 3,
+          "text": "klinikum"
         }
       ]
     },
@@ -852,12 +963,14 @@
         {
           "entity": "StationStart",
           "start": 1,
-          "stop": 2
+          "stop": 2,
+          "text": "garching foschungszentrum"
         },
         {
           "entity": "StationDest",
           "start": 4,
-          "stop": 4
+          "stop": 4,
+          "text": "odeonsplatz"
         }
       ]
     },
@@ -868,17 +981,20 @@
         {
           "entity": "Vehicle",
           "start": 1,
-          "stop": 1
+          "stop": 1,
+          "text": "bus"
         },
         {
           "entity": "Criterion",
           "start": 0,
-          "stop": 0
+          "stop": 0,
+          "text": "next"
         },
         {
           "entity": "StationStart",
           "start": 3,
-          "stop": 3
+          "stop": 3,
+          "text": "garching"
         }
       ]
     },
@@ -889,12 +1005,14 @@
         {
           "entity": "Vehicle",
           "start": 3,
-          "stop": 3
+          "stop": 3,
+          "text": "train"
         },
         {
           "entity": "StationStart",
           "start": 6,
-          "stop": 7
+          "stop": 7,
+          "text": "garching forschungszentrum"
         }
       ]
     },
@@ -902,20 +1020,23 @@
       "text": "next subway from garching forschungszentrum",
       "intent": "DepartureTime",
       "entities": [
-      	{
+        {
           "entity": "Criterion",
           "start": 0,
-          "stop": 0
+          "stop": 0,
+          "text": "next"
         },
         {
           "entity": "Vehicle",
           "start": 1,
-          "stop": 1
+          "stop": 1,
+          "text": "subway"
         },
         {
           "entity": "StationStart",
           "start": 3,
-          "stop": 4
+          "stop": 4,
+          "text": "garching forschungszentrum"
         }
       ]
     },
@@ -926,17 +1047,20 @@
         {
           "entity": "Vehicle",
           "start": 4,
-          "stop": 4
+          "stop": 4,
+          "text": "bus"
         },
         {
           "entity": "Criterion",
           "start": 3,
-          "stop": 3
+          "stop": 3,
+          "text": "next"
         },
         {
           "entity": "StationStart",
           "start": 6,
-          "stop": 6
+          "stop": 6,
+          "text": "garching"
         }
       ]
     },
@@ -947,17 +1071,20 @@
         {
           "entity": "Vehicle",
           "start": 1,
-          "stop": 1
+          "stop": 1,
+          "text": "bus"
         },
         {
           "entity": "Criterion",
           "start": 0,
-          "stop": 0
+          "stop": 0,
+          "text": "next"
         },
         {
           "entity": "StationStart",
           "start": 3,
-          "stop": 3
+          "stop": 3,
+          "text": "garching"
         }
       ]
     },
@@ -968,17 +1095,20 @@
         {
           "entity": "Vehicle",
           "start": 1,
-          "stop": 1
+          "stop": 1,
+          "text": "bus"
         },
         {
           "entity": "Criterion",
           "start": 0,
-          "stop": 0
+          "stop": 0,
+          "text": "next"
         },
         {
           "entity": "StationStart",
           "start": 3,
-          "stop": 3
+          "stop": 3,
+          "text": "garching"
         }
       ]
     },
@@ -989,17 +1119,20 @@
         {
           "entity": "Vehicle",
           "start": 1,
-          "stop": 1
+          "stop": 1,
+          "text": "bus"
         },
         {
           "entity": "Criterion",
           "start": 0,
-          "stop": 0
+          "stop": 0,
+          "text": "next"
         },
         {
           "entity": "StationStart",
           "start": 3,
-          "stop": 4
+          "stop": 4,
+          "text": "central station"
         }
       ]
     },
@@ -1010,12 +1143,14 @@
         {
           "entity": "StationStart",
           "start": 1,
-          "stop": 1
+          "stop": 1,
+          "text": "garching"
         },
         {
           "entity": "StationDest",
           "start": 3,
-          "stop": 3
+          "stop": 3,
+          "text": "marienplatz"
         }
       ]
     },
@@ -1026,17 +1161,20 @@
         {
           "entity": "Vehicle",
           "start": 1,
-          "stop": 1
+          "stop": 1,
+          "text": "bus"
         },
         {
           "entity": "Criterion",
           "start": 0,
-          "stop": 0
+          "stop": 0,
+          "text": "next"
         },
         {
           "entity": "StationStart",
           "start": 3,
-          "stop": 3
+          "stop": 3,
+          "text": "garching"
         }
       ]
     },
@@ -1047,12 +1185,14 @@
         {
           "entity": "StationStart",
           "start": 2,
-          "stop": 2
+          "stop": 2,
+          "text": "garching"
         },
         {
           "entity": "StationDest",
           "start": 4,
-          "stop": 4
+          "stop": 4,
+          "text": "hauptbahnhof"
         }
       ]
     },
@@ -1063,17 +1203,20 @@
         {
           "entity": "Vehicle",
           "start": 4,
-          "stop": 4
+          "stop": 4,
+          "text": "bus"
         },
         {
           "entity": "Criterion",
           "start": 3,
-          "stop": 3
+          "stop": 3,
+          "text": "next"
         },
         {
           "entity": "StationStart",
           "start": 7,
-          "stop": 7
+          "stop": 7,
+          "text": "garching"
         }
       ]
     },
@@ -1084,12 +1227,14 @@
         {
           "entity": "StationStart",
           "start": 3,
-          "stop": 3
+          "stop": 3,
+          "text": "hauptbahnhof"
         },
         {
           "entity": "StationDest",
           "start": 5,
-          "stop": 5
+          "stop": 5,
+          "text": "odeonsplatz"
         }
       ]
     },
@@ -1100,17 +1245,20 @@
         {
           "entity": "Vehicle",
           "start": 4,
-          "stop": 6
+          "stop": 6,
+          "text": "u-bahn"
         },
         {
           "entity": "Criterion",
           "start": 3,
-          "stop": 3
+          "stop": 3,
+          "text": "next"
         },
         {
           "entity": "StationStart",
           "start": 9,
-          "stop": 10
+          "stop": 10,
+          "text": "garching forschungszentrum"
         }
       ]
     },
@@ -1121,17 +1269,20 @@
         {
           "entity": "Vehicle",
           "start": 4,
-          "stop": 6
+          "stop": 6,
+          "text": "u-bahn"
         },
         {
           "entity": "Criterion",
           "start": 3,
-          "stop": 3
+          "stop": 3,
+          "text": "next"
         },
         {
           "entity": "StationStart",
           "start": 9,
-          "stop": 9
+          "stop": 9,
+          "text": "garching"
         }
       ]
     },
@@ -1142,17 +1293,20 @@
         {
           "entity": "Vehicle",
           "start": 4,
-          "stop": 4
+          "stop": 4,
+          "text": "subway"
         },
         {
           "entity": "Criterion",
           "start": 3,
-          "stop": 3
+          "stop": 3,
+          "text": "next"
         },
         {
           "entity": "StationStart",
           "start": 7,
-          "stop": 7
+          "stop": 7,
+          "text": "garching"
         }
       ]
     },
@@ -1163,17 +1317,20 @@
         {
           "entity": "Vehicle",
           "start": 4,
-          "stop": 4
+          "stop": 4,
+          "text": "train"
         },
         {
           "entity": "Criterion",
           "start": 3,
-          "stop": 3
+          "stop": 3,
+          "text": "next"
         },
         {
           "entity": "StationStart",
           "start": 6,
-          "stop": 6
+          "stop": 6,
+          "text": "garching"
         }
       ]
     },
@@ -1184,12 +1341,14 @@
         {
           "entity": "StationStart",
           "start": 4,
-          "stop": 5
+          "stop": 5,
+          "text": "münchner freiheit"
         },
         {
           "entity": "StationDest",
           "start": 7,
-          "stop": 7
+          "stop": 7,
+          "text": "garching"
         }
       ]
     },
@@ -1200,12 +1359,14 @@
         {
           "entity": "StationStart",
           "start": 0,
-          "stop": 0
+          "stop": 0,
+          "text": "implerstraße"
         },
         {
           "entity": "StationDest",
           "start": 2,
-          "stop": 2
+          "stop": 2,
+          "text": "ostbahnhof"
         }
       ]
     },
@@ -1216,12 +1377,14 @@
         {
           "entity": "StationStart",
           "start": 5,
-          "stop": 5
+          "stop": 5,
+          "text": "hauptbahnhof"
         },
         {
           "entity": "StationDest",
           "start": 7,
-          "stop": 7
+          "stop": 7,
+          "text": "odeonsplatz"
         }
       ]
     },
@@ -1232,12 +1395,14 @@
         {
           "entity": "StationStart",
           "start": 5,
-          "stop": 6
+          "stop": 6,
+          "text": "garching forschungszentrum"
         },
         {
           "entity": "StationDest",
           "start": 8,
-          "stop": 8
+          "stop": 8,
+          "text": "prinzregentenplatz"
         }
       ]
     },
@@ -1247,13 +1412,15 @@
       "entities": [
         {
           "entity": "StationStart",
-          "start": 7,
-          "stop": 7
+          "start": 5,
+          "stop": 5,
+          "text": "mangfallplatz"
         },
         {
           "entity": "StationDest",
-          "start": 9,
-          "stop": 9
+          "start": 7,
+          "stop": 7,
+          "text": "garching"
         }
       ]
     },
@@ -1263,8 +1430,9 @@
       "entities": [
         {
           "entity": "StationDest",
-          "start": 8,
-          "stop": 8
+          "start": 5,
+          "stop": 5,
+          "text": "hohenlindenerstraße"
         }
       ]
     },
@@ -1275,28 +1443,32 @@
         {
           "entity": "StationStart",
           "start": 0,
-          "stop": 0
+          "stop": 0,
+          "text": "harthaus"
         },
         {
           "entity": "StationDest",
           "start": 2,
-          "stop": 2
+          "stop": 2,
+          "text": "hackerbrücke"
         }
       ]
     },
     {
-      "text": "how can i get from feldmoching to garching forschungszentrum?“,
+      "text": "how can i get from feldmoching to garching forschungszentrum?",
       "intent": "FindConnection",
       "entities": [
         {
           "entity": "StationStart",
           "start": 5,
-          "stop": 5
+          "stop": 5,
+          "text": "feldmoching"
         },
         {
           "entity": "StationDest",
           "start": 7,
-          "stop": 8
+          "stop": 8,
+          "text": "garching forschungszentrum"
         }
       ]
     },
@@ -1307,12 +1479,14 @@
         {
           "entity": "StationStart",
           "start": 1,
-          "stop": 1
+          "stop": 1,
+          "text": "marienplatz"
         },
         {
           "entity": "StationDest",
           "start": 3,
-          "stop": 3
+          "stop": 3,
+          "text": "petershausen"
         }
       ]
     },
@@ -1320,20 +1494,23 @@
       "text": "when is the train from garching to marienplatz",
       "intent": "FindConnection",
       "entities": [
-      	{
+        {
           "entity": "Vehicle",
           "start": 3,
-          "stop": 3
+          "stop": 3,
+          "text": "train"
         },
         {
           "entity": "StationStart",
           "start": 5,
-          "stop": 5
+          "stop": 5,
+          "text": "garching"
         },
         {
           "entity": "StationDest",
           "start": 7,
-          "stop": 7
+          "stop": 7,
+          "text": "marienplatz"
         }
       ]
     },
@@ -1344,12 +1521,14 @@
         {
           "entity": "StationStart",
           "start": 0,
-          "stop": 0
+          "stop": 0,
+          "text": "neufahrn"
         },
         {
           "entity": "StationDest",
           "start": 2,
-          "stop": 2
+          "stop": 2,
+          "text": "garching"
         }
       ]
     },
@@ -1360,12 +1539,14 @@
         {
           "entity": "StationStart",
           "start": 5,
-          "stop": 5
+          "stop": 5,
+          "text": "mangfallplatz"
         },
         {
           "entity": "StationDest",
           "start": 7,
-          "stop": 7
+          "stop": 7,
+          "text": "garching"
         }
       ]
     },
@@ -1376,7 +1557,8 @@
         {
           "entity": "StationDest",
           "start": 5,
-          "stop": 5
+          "stop": 5,
+          "text": "hohenlindenerstr"
         }
       ]
     },
@@ -1387,33 +1569,38 @@
         {
           "entity": "Vehicle",
           "start": 4,
-          "stop": 4
+          "stop": 4,
+          "text": "bus"
         },
         {
           "entity": "Criterion",
           "start": 3,
-          "stop": 3
+          "stop": 3,
+          "text": "next"
         },
         {
           "entity": "StationStart",
           "start": 6,
-          "stop": 7
+          "stop": 7,
+          "text": "garching forschungzentrum"
         }
       ]
     },
     {
-      "text": "how do i get from spitzingplatz to poccistraße?“,
+      "text": "how do i get from spitzingplatz to poccistraße?",
       "intent": "FindConnection",
       "entities": [
         {
           "entity": "StationStart",
           "start": 5,
-          "stop": 5
+          "stop": 5,
+          "text": "spitzingplatz"
         },
         {
           "entity": "StationDest",
           "start": 7,
-          "stop": 7
+          "stop": 7,
+          "text": "poccistraße"
         }
       ]
     },
@@ -1424,12 +1611,14 @@
         {
           "entity": "StationStart",
           "start": 5,
-          "stop": 6
+          "stop": 6,
+          "text": "garching forschungszentrum"
         },
         {
           "entity": "StationDest",
           "start": 8,
-          "stop": 8
+          "stop": 8,
+          "text": "marienplatz"
         }
       ]
     },
@@ -1440,12 +1629,14 @@
         {
           "entity": "StationStart",
           "start": 5,
-          "stop": 5
+          "stop": 5,
+          "text": "klinkum"
         },
         {
           "entity": "StationDest",
           "start": 7,
-          "stop": 7
+          "stop": 7,
+          "text": "marienplatz"
         }
       ]
     },
@@ -1456,12 +1647,14 @@
         {
           "entity": "StationStart",
           "start": 4,
-          "stop": 5
+          "stop": 5,
+          "text": "alte heide"
         },
         {
           "entity": "StationDest",
           "start": 7,
-          "stop": 7
+          "stop": 7,
+          "text": "marienplatz"
         }
       ]
     },
@@ -1472,17 +1665,20 @@
         {
           "entity": "Vehicle",
           "start": 1,
-          "stop": 1
+          "stop": 1,
+          "text": "train"
         },
         {
           "entity": "Criterion",
           "start": 0,
-          "stop": 0
+          "stop": 0,
+          "text": "next"
         },
         {
           "entity": "StationStart",
           "start": 3,
-          "stop": 4
+          "stop": 4,
+          "text": "muenchen freicheit"
         }
       ]
     },
@@ -1493,7 +1689,8 @@
         {
           "entity": "StationStart",
           "start": 2,
-          "stop": 2
+          "stop": 2,
+          "text": "garching"
         }
       ]
     },
@@ -1504,17 +1701,20 @@
         {
           "entity": "Vehicle",
           "start": 4,
-          "stop": 6
+          "stop": 6,
+          "text": "u-bahn"
         },
         {
           "entity": "Criterion",
           "start": 3,
-          "stop": 3
+          "stop": 3,
+          "text": "next"
         },
         {
           "entity": "StationStart",
           "start": 9,
-          "stop": 9
+          "stop": 9,
+          "text": "garching"
         }
       ]
     },
@@ -1525,17 +1725,20 @@
         {
           "entity": "Vehicle",
           "start": 2,
-          "stop": 2
+          "stop": 2,
+          "text": "bus"
         },
         {
           "entity": "Criterion",
           "start": 1,
-          "stop": 1
+          "stop": 1,
+          "text": "next"
         },
         {
           "entity": "StationStart",
           "start": 4,
-          "stop": 5
+          "stop": 5,
+          "text": "garching forschungzentrum"
         }
       ]
     },
@@ -1546,17 +1749,20 @@
         {
           "entity": "Vehicle",
           "start": 4,
-          "stop": 4
+          "stop": 4,
+          "text": "train"
         },
         {
           "entity": "Criterion",
           "start": 3,
-          "stop": 3
+          "stop": 3,
+          "text": "next"
         },
         {
           "entity": "StationStart",
           "start": 6,
-          "stop": 7
+          "stop": 7,
+          "text": "alte heide"
         }
       ]
     },
@@ -1567,7 +1773,8 @@
         {
           "entity": "StationStart",
           "start": 3,
-          "stop": 3
+          "stop": 3,
+          "text": "garching"
         }
       ]
     },
@@ -1578,12 +1785,14 @@
         {
           "entity": "StationStart",
           "start": 10,
-          "stop": 11
+          "stop": 11,
+          "text": "münchner freiheit"
         },
         {
           "entity": "StationDest",
           "start": 13,
-          "stop": 13
+          "stop": 13,
+          "text": "scheidplatz"
         }
       ]
     },
@@ -1594,12 +1803,14 @@
         {
           "entity": "StationStart",
           "start": 5,
-          "stop": 6
+          "stop": 6,
+          "text": "garching forschungszentrum"
         },
         {
           "entity": "StationDest",
           "start": 8,
-          "stop": 8
+          "stop": 8,
+          "text": "prinzregentenplatz"
         }
       ]
     },
@@ -1610,12 +1821,14 @@
         {
           "entity": "StationStart",
           "start": 5,
-          "stop": 5
+          "stop": 5,
+          "text": "neufahrn"
         },
         {
           "entity": "StationDest",
           "start": 7,
-          "stop": 7
+          "stop": 7,
+          "text": "garching"
         }
       ]
     },
@@ -1626,7 +1839,8 @@
         {
           "entity": "StationDest",
           "start": 4,
-          "stop": 4
+          "stop": 4,
+          "text": "airport"
         }
       ]
     },
@@ -1637,17 +1851,20 @@
         {
           "entity": "Line",
           "start": 4,
-          "stop": 4
+          "stop": 4,
+          "text": "u6"
         },
         {
           "entity": "Criterion",
           "start": 3,
-          "stop": 3
+          "stop": 3,
+          "text": "next"
         },
         {
           "entity": "StationStart",
           "start": 7,
-          "stop": 8
+          "stop": 8,
+          "text": "garching forschungszentrum"
         }
       ]
     },
@@ -1658,12 +1875,14 @@
         {
           "entity": "StationStart",
           "start": 5,
-          "stop": 6
+          "stop": 6,
+          "text": "munchner freiheit"
         },
         {
           "entity": "StationDest",
           "start": 8,
-          "stop": 8
+          "stop": 8,
+          "text": "nordfriedhof"
         }
       ]
     },
@@ -1674,12 +1893,14 @@
         {
           "entity": "StationStart",
           "start": 1,
-          "stop": 1
+          "stop": 1,
+          "text": "harthaus"
         },
         {
           "entity": "StationDest",
           "start": 3,
-          "stop": 3
+          "stop": 3,
+          "text": "hackerbrücke"
         }
       ]
     },
@@ -1690,12 +1911,14 @@
         {
           "entity": "Vehicle",
           "start": 3,
-          "stop": 3
+          "stop": 3,
+          "text": "train"
         },
         {
           "entity": "StationStart",
           "start": 5,
-          "stop": 5
+          "stop": 5,
+          "text": "garching"
         }
       ]
     },
@@ -1706,17 +1929,20 @@
         {
           "entity": "Vehicle",
           "start": 4,
-          "stop": 4
+          "stop": 4,
+          "text": "train"
         },
         {
           "entity": "Criterion",
           "start": 3,
-          "stop": 3
+          "stop": 3,
+          "text": "next"
         },
         {
           "entity": "StationStart",
           "start": 6,
-          "stop": 7
+          "stop": 7,
+          "text": "münchner freiheit"
         }
       ]
     },
@@ -1727,12 +1953,14 @@
         {
           "entity": "StationStart",
           "start": 5,
-          "stop": 5
+          "stop": 5,
+          "text": "theresienstrasse"
         },
         {
           "entity": "StationDest",
           "start": 7,
-          "stop": 8
+          "stop": 8,
+          "text": "garching forschungszentrum"
         }
       ]
     },
@@ -1743,12 +1971,14 @@
         {
           "entity": "StationStart",
           "start": 5,
-          "stop": 6
+          "stop": 6,
+          "text": "münchner freiheit"
         },
         {
           "entity": "StationDest",
           "start": 8,
-          "stop": 8
+          "stop": 8,
+          "text": "odeonsplatz"
         }
       ]
     },
@@ -1759,12 +1989,14 @@
         {
           "entity": "StationStart",
           "start": 1,
-          "stop": 1
+          "stop": 1,
+          "text": "garching"
         },
         {
           "entity": "StationDest",
           "start": 3,
-          "stop": 3
+          "stop": 3,
+          "text": "hauptbahnhof"
         }
       ]
     },
@@ -1775,12 +2007,14 @@
         {
           "entity": "StationStart",
           "start": 5,
-          "stop": 5
+          "stop": 5,
+          "text": "garching"
         },
         {
           "entity": "StationDest",
           "start": 7,
-          "stop": 7
+          "stop": 7,
+          "text": "odeonsplatz"
         }
       ]
     },
@@ -1791,12 +2025,14 @@
         {
           "entity": "StationStart",
           "start": 2,
-          "stop": 2
+          "stop": 2,
+          "text": "neufahrn"
         },
         {
           "entity": "StationDest",
           "start": 5,
-          "stop": 5
+          "stop": 5,
+          "text": "garching"
         }
       ]
     },
@@ -1807,12 +2043,14 @@
         {
           "entity": "StationStart",
           "start": 5,
-          "stop": 5
+          "stop": 5,
+          "text": "studentenstadt"
         },
         {
           "entity": "StationDest",
           "start": 7,
-          "stop": 7
+          "stop": 7,
+          "text": "garching"
         }
       ]
     },
@@ -1823,17 +2061,20 @@
         {
           "entity": "Vehicle",
           "start": 4,
-          "stop": 4
+          "stop": 4,
+          "text": "bus"
         },
         {
           "entity": "Criterion",
           "start": 3,
-          "stop": 3
+          "stop": 3,
+          "text": "next"
         },
         {
           "entity": "StationStart",
           "start": 6,
-          "stop": 6
+          "stop": 6,
+          "text": "garching"
         }
       ]
     },
@@ -1844,33 +2085,38 @@
         {
           "entity": "StationStart",
           "start": 3,
-          "stop": 3
+          "stop": 3,
+          "text": "hauptbahnhof"
         },
         {
           "entity": "StationDest",
           "start": 5,
-          "stop": 5
+          "stop": 5,
+          "text": "odeonsplatz"
         }
       ]
     },
-{
+    {
       "text": "what's the shortest connection between quiddestraße and odeonsplatz?",
       "intent": "FindConnection",
       "entities": [
         {
           "entity": "Criterion",
           "start": 4,
-          "stop": 4
+          "stop": 4,
+          "text": "shortest"
         },
         {
           "entity": "StationStart",
           "start": 7,
-          "stop": 7
+          "stop": 7,
+          "text": "quiddestraße"
         },
         {
           "entity": "StationDest",
           "start": 9,
-          "stop": 9
+          "stop": 9,
+          "text": "odeonsplatz"
         }
       ]
     },
@@ -1881,17 +2127,20 @@
         {
           "entity": "Criterion",
           "start": 3,
-          "stop": 3
+          "stop": 3,
+          "text": "cheapest"
         },
         {
           "entity": "StationStart",
           "start": 6,
-          "stop": 6
+          "stop": 6,
+          "text": "quiddestraße"
         },
         {
           "entity": "StationDest",
           "start": 8,
-          "stop": 8
+          "stop": 8,
+          "text": "hauptbahnhof"
         }
       ]
     },
@@ -1902,17 +2151,20 @@
         {
           "entity": "Criterion",
           "start": 4,
-          "stop": 4
+          "stop": 4,
+          "text": "shortest"
         },
         {
           "entity": "StationStart",
           "start": 7,
-          "stop": 7
+          "stop": 7,
+          "text": "hauptbahnhof"
         },
         {
           "entity": "StationDest",
           "start": 9,
-          "stop": 9
+          "stop": 9,
+          "text": "odeonsplatz"
         }
       ]
     },
@@ -1923,17 +2175,20 @@
         {
           "entity": "Criterion",
           "start": 10,
-          "stop": 10
+          "stop": 10,
+          "text": "fast"
         },
         {
           "entity": "StationStart",
           "start": 5,
-          "stop": 5
+          "stop": 5,
+          "text": "garching"
         },
         {
           "entity": "StationDest",
           "start": 7,
-          "stop": 8
+          "stop": 8,
+          "text": "münchner freiheit"
         }
       ]
     },
@@ -1944,17 +2199,20 @@
         {
           "entity": "Criterion",
           "start": 4,
-          "stop": 4
+          "stop": 4,
+          "text": "cheapest"
         },
         {
           "entity": "StationStart",
           "start": 7,
-          "stop": 8
+          "stop": 8,
+          "text": "neuperlach süd"
         },
         {
           "entity": "StationDest",
           "start": 10,
-          "stop": 10
+          "stop": 10,
+          "text": "lehel"
         }
       ]
     },
@@ -1965,17 +2223,20 @@
         {
           "entity": "Criterion",
           "start": 10,
-          "stop": 10
+          "stop": 10,
+          "text": "fast"
         },
         {
           "entity": "StationStart",
           "start": 5,
-          "stop": 6
+          "stop": 6,
+          "text": "neuperlach zentrum"
         },
         {
           "entity": "StationDest",
           "start": 8,
-          "stop": 8
+          "stop": 8,
+          "text": "karlsplatz"
         }
       ]
     },
@@ -1986,17 +2247,20 @@
         {
           "entity": "Criterion",
           "start": 5,
-          "stop": 5
+          "stop": 5,
+          "text": "fastest"
         },
         {
           "entity": "StationStart",
           "start": 8,
-          "stop": 8
+          "stop": 8,
+          "text": "brudermühlstraße"
         },
         {
           "entity": "StationDest",
           "start": 10,
-          "stop": 11
+          "stop": 11,
+          "text": "alte heide"
         }
       ]
     },
@@ -2007,17 +2271,20 @@
         {
           "entity": "TimeStartTime",
           "start": 10,
-          "stop": 11
+          "stop": 11,
+          "text": "3 pm"
         },
         {
           "entity": "StationStart",
           "start": 5,
-          "stop": 6
+          "stop": 6,
+          "text": "neuperlach zentrum"
         },
         {
           "entity": "StationDest",
           "start": 8,
-          "stop": 8
+          "stop": 8,
+          "text": "garching"
         }
       ]
     },
@@ -2028,17 +2295,20 @@
         {
           "entity": "TimeStartTime",
           "start": 10,
-          "stop": 11
+          "stop": 11,
+          "text": "2 pm"
         },
         {
           "entity": "StationStart",
           "start": 6,
-          "stop": 6
+          "stop": 6,
+          "text": "olympiazentrum"
         },
         {
           "entity": "StationDest",
           "start": 8,
-          "stop": 8
+          "stop": 8,
+          "text": "lehel"
         }
       ]
     },
@@ -2049,17 +2319,20 @@
         {
           "entity": "TimeStartTime",
           "start": 13,
-          "stop": 14
+          "stop": 14,
+          "text": "8 am"
         },
         {
           "entity": "StationStart",
           "start": 5,
-          "stop": 5
+          "stop": 5,
+          "text": "harras"
         },
         {
           "entity": "StationDest",
           "start": 7,
-          "stop": 11
+          "stop": 11,
+          "text": "karl-preis-platz"
         }
       ]
     },
@@ -2070,17 +2343,20 @@
         {
           "entity": "TimeEndTime",
           "start": 7,
-          "stop": 8
+          "stop": 8,
+          "text": "1 pm"
         },
         {
           "entity": "StationStart",
           "start": 16,
-          "stop": 17
+          "stop": 17,
+          "text": "garching forschungszentrum"
         },
         {
           "entity": "StationDest",
           "start": 5,
-          "stop": 5
+          "stop": 5,
+          "text": "hauptbahnhof"
         }
       ]
     },
@@ -2091,12 +2367,14 @@
         {
           "entity": "TimeEndTime",
           "start": 7,
-          "stop": 7
+          "stop": 7,
+          "text": "9"
         },
         {
           "entity": "StationDest",
           "start": 5,
-          "stop": 5
+          "stop": 5,
+          "text": "garching"
         }
       ]
     },
@@ -2107,17 +2385,20 @@
         {
           "entity": "Vehicle",
           "start": 4,
-          "stop": 4
+          "stop": 4,
+          "text": "bus"
         },
         {
           "entity": "StationStart",
           "start": 6,
-          "stop": 6
+          "stop": 6,
+          "text": "quiddestraße"
         },
         {
           "entity": "StationDest",
           "start": 8,
-          "stop": 8
+          "stop": 8,
+          "text": "hauptbahnhof"
         }
       ]
     },
@@ -2128,17 +2409,20 @@
         {
           "entity": "Criterion",
           "start": 4,
-          "stop": 4
+          "stop": 4,
+          "text": "shortest"
         },
         {
           "entity": "StationStart",
           "start": 7,
-          "stop": 7
+          "stop": 7,
+          "text": "moosfeld"
         },
         {
           "entity": "StationDest",
           "start": 9,
-          "stop": 9
+          "stop": 9,
+          "text": "milbertshofen"
         }
       ]
     },
@@ -2149,12 +2433,14 @@
         {
           "entity": "StationStart",
           "start": 8,
-          "stop": 9
+          "stop": 9,
+          "text": "garching forschungszentrum"
         },
         {
           "entity": "StationDest",
           "start": 5,
-          "stop": 6
+          "stop": 6,
+          "text": "neuperlach süd"
         }
       ]
     },
@@ -2165,17 +2451,20 @@
         {
           "entity": "Vehicle",
           "start": 4,
-          "stop": 4
+          "stop": 4,
+          "text": "bus"
         },
         {
           "entity": "StationStart",
           "start": 6,
-          "stop": 6
+          "stop": 6,
+          "text": "quiddestraße"
         },
         {
           "entity": "StationDest",
           "start": 8,
-          "stop": 8
+          "stop": 8,
+          "text": "lehel"
         }
       ]
     },
@@ -2186,17 +2475,20 @@
         {
           "entity": "Vehicle",
           "start": 3,
-          "stop": 3
+          "stop": 3,
+          "text": "tram"
         },
         {
           "entity": "StationStart",
           "start": 5,
-          "stop": 5
+          "stop": 5,
+          "text": "karlsplatz"
         },
         {
           "entity": "StationDest",
           "start": 7,
-          "stop": 7
+          "stop": 7,
+          "text": "lehel"
         }
       ]
     },
@@ -2207,22 +2499,26 @@
         {
           "entity": "Vehicle",
           "start": 3,
-          "stop": 3
+          "stop": 3,
+          "text": "bus"
         },
         {
           "entity": "TimeStartTime",
           "start": 10,
-          "stop": 10
+          "stop": 10,
+          "text": "5"
         },
         {
           "entity": "StationStart",
           "start": 5,
-          "stop": 5
+          "stop": 5,
+          "text": "garching"
         },
         {
           "entity": "StationDest",
           "start": 7,
-          "stop": 7
+          "stop": 7,
+          "text": "moosach"
         }
       ]
     },
@@ -2233,22 +2529,26 @@
         {
           "entity": "Vehicle",
           "start": 3,
-          "stop": 3
+          "stop": 3,
+          "text": "bus"
         },
         {
           "entity": "TimeStartTime",
           "start": 9,
-          "stop": 10
+          "stop": 10,
+          "text": "3 pm"
         },
         {
           "entity": "StationStart",
           "start": 5,
-          "stop": 5
+          "stop": 5,
+          "text": "odeonsplatz"
         },
         {
           "entity": "StationDest",
           "start": 7,
-          "stop": 7
+          "stop": 7,
+          "text": "hauptbahnhof"
         }
       ]
     },
@@ -2259,17 +2559,20 @@
         {
           "entity": "Criterion",
           "start": 5,
-          "stop": 5
+          "stop": 5,
+          "text": "cheapest"
         },
         {
           "entity": "StationStart",
           "start": 8,
-          "stop": 9
+          "stop": 9,
+          "text": "garching forschungszentrum"
         },
         {
           "entity": "StationDest",
           "start": 11,
-          "stop": 11
+          "stop": 11,
+          "text": "quiddestraße"
         }
       ]
     },
@@ -2280,7 +2583,8 @@
         {
           "entity": "StationDest",
           "start": 5,
-          "stop": 5
+          "stop": 5,
+          "text": "quiddestraße"
         }
       ]
     },
@@ -2291,17 +2595,20 @@
         {
           "entity": "Vehicle",
           "start": 4,
-          "stop": 4
+          "stop": 4,
+          "text": "bus"
         },
         {
           "entity": "Criterion",
           "start": 3,
-          "stop": 3
+          "stop": 3,
+          "text": "next"
         },
         {
           "entity": "StationStart",
           "start": 7,
-          "stop": 7
+          "stop": 7,
+          "text": "hauptbahnhof"
         }
       ]
     },
@@ -2312,12 +2619,14 @@
         {
           "entity": "StationStart",
           "start": 5,
-          "stop": 5
+          "stop": 5,
+          "text": "garching"
         },
         {
           "entity": "StationDest",
           "start": 7,
-          "stop": 7
+          "stop": 7,
+          "text": "hauptbahnhof"
         }
       ]
     },
@@ -2328,15 +2637,17 @@
         {
           "entity": "StationStart",
           "start": 5,
-          "stop": 9
+          "stop": 9,
+          "text": "kurt-eisner-straße"
         },
         {
           "entity": "StationDest",
           "start": 11,
-          "stop": 11
+          "stop": 11,
+          "text": "garching"
         }
       ]
-    },    
+    },
     {
       "text": "when the next train in garching,forschungszentrum is leaving?",
       "intent": "DepartureTime",
@@ -2344,17 +2655,20 @@
         {
           "entity": "Vehicle",
           "start": 3,
-          "stop": 3
+          "stop": 3,
+          "text": "train"
         },
         {
           "entity": "Criterion",
           "start": 2,
-          "stop": 2
+          "stop": 2,
+          "text": "next"
         },
         {
           "entity": "StationStart",
           "start": 5,
-          "stop": 7
+          "stop": 7,
+          "text": "garching,forschungszentrum"
         }
       ]
     },
@@ -2365,17 +2679,20 @@
         {
           "entity": "Criterion",
           "start": 3,
-          "stop": 3
+          "stop": 3,
+          "text": "next"
         },
         {
           "entity": "StationStart",
           "start": 6,
-          "stop": 7
+          "stop": 7,
+          "text": "garching forschungszentrum"
         },
         {
           "entity": "StationDest",
           "start": 9,
-          "stop": 9
+          "stop": 9,
+          "text": "odeonsplatz"
         }
       ]
     },
@@ -2386,12 +2703,14 @@
         {
           "entity": "StationStart",
           "start": 5,
-          "stop": 5
+          "stop": 5,
+          "text": "mossach"
         },
         {
           "entity": "StationDest",
           "start": 7,
-          "stop": 8
+          "stop": 8,
+          "text": "garching forschungszentrum"
         }
       ]
     },
@@ -2402,12 +2721,14 @@
         {
           "entity": "StationStart",
           "start": 5,
-          "stop": 6
+          "stop": 6,
+          "text": "garching forschungszentrum"
         },
         {
           "entity": "StationDest",
           "start": 8,
-          "stop": 8
+          "stop": 8,
+          "text": "odeonsplatz"
         }
       ]
     },
@@ -2418,12 +2739,14 @@
         {
           "entity": "StationStart",
           "start": 5,
-          "stop": 7
+          "stop": 7,
+          "text": "garching, forschungszentrum"
         },
         {
           "entity": "StationDest",
           "start": 9,
-          "stop": 9
+          "stop": 9,
+          "text": "odeonsplatz"
         }
       ]
     },
@@ -2434,12 +2757,14 @@
         {
           "entity": "StationStart",
           "start": 5,
-          "stop": 6
+          "stop": 6,
+          "text": "garching forschungszentrum"
         },
         {
           "entity": "StationDest",
           "start": 8,
-          "stop": 12
+          "stop": 12,
+          "text": "kurt-eisner-straße"
         }
       ]
     },
@@ -2450,12 +2775,14 @@
         {
           "entity": "StationStart",
           "start": 7,
-          "stop": 7
+          "stop": 7,
+          "text": "quiddestraße"
         },
         {
           "entity": "StationDest",
           "start": 5,
-          "stop": 5
+          "stop": 5,
+          "text": "boltzmannstraße"
         }
       ]
     },
@@ -2466,17 +2793,20 @@
         {
           "entity": "Vehicle",
           "start": 4,
-          "stop": 4
+          "stop": 4,
+          "text": "train"
         },
         {
           "entity": "Criterion",
           "start": 3,
-          "stop": 3
+          "stop": 3,
+          "text": "next"
         },
         {
           "entity": "StationStart",
           "start": 7,
-          "stop": 7
+          "stop": 7,
+          "text": "quiddestraße"
         }
       ]
     },
@@ -2487,17 +2817,20 @@
         {
           "entity": "Vehicle",
           "start": 3,
-          "stop": 3
+          "stop": 3,
+          "text": "train"
         },
         {
           "entity": "Criterion",
           "start": 2,
-          "stop":2
+          "stop": 2,
+          "text": "next"
         },
         {
           "entity": "StationStart",
           "start": 5,
-          "stop": 6
+          "stop": 6,
+          "text": "garching forschungszentrum"
         }
       ]
     },
@@ -2508,12 +2841,14 @@
         {
           "entity": "Line",
           "start": 4,
-          "stop": 4
+          "stop": 4,
+          "text": "u6"
         },
         {
           "entity": "StationStart",
           "start": 7,
-          "stop": 7
+          "stop": 7,
+          "text": "garching"
         }
       ]
     },
@@ -2524,17 +2859,20 @@
         {
           "entity": "Vehicle",
           "start": 4,
-          "stop": 4
+          "stop": 4,
+          "text": "train"
         },
         {
           "entity": "Criterion",
           "start": 3,
-          "stop": 3
+          "stop": 3,
+          "text": "next"
         },
         {
           "entity": "StationStart",
           "start": 7,
-          "stop": 8
+          "stop": 8,
+          "text": "garching forschungszentrum"
         }
       ]
     },
@@ -2545,12 +2883,14 @@
         {
           "entity": "Line",
           "start": 4,
-          "stop": 4
+          "stop": 4,
+          "text": "u6"
         },
         {
           "entity": "Criterion",
           "start": 3,
-          "stop": 3
+          "stop": 3,
+          "text": "next"
         }
       ]
     },
@@ -2561,17 +2901,20 @@
         {
           "entity": "Vehicle",
           "start": 4,
-          "stop": 4
+          "stop": 4,
+          "text": "subway"
         },
         {
           "entity": "Criterion",
           "start": 3,
-          "stop": 3
+          "stop": 3,
+          "text": "next"
         },
         {
           "entity": "StationStart",
           "start": 7,
-          "stop": 7
+          "stop": 7,
+          "text": "garching"
         }
       ]
     },
@@ -2582,17 +2925,20 @@
         {
           "entity": "Vehicle",
           "start": 3,
-          "stop": 3
+          "stop": 3,
+          "text": "train"
         },
         {
           "entity": "Criterion",
           "start": 2,
-          "stop": 2
+          "stop": 2,
+          "text": "next"
         },
         {
           "entity": "StationStart",
           "start": 5,
-          "stop": 5
+          "stop": 5,
+          "text": "garching"
         }
       ]
     },
@@ -2603,17 +2949,20 @@
         {
           "entity": "Vehicle",
           "start": 4,
-          "stop": 4
+          "stop": 4,
+          "text": "train"
         },
         {
           "entity": "Criterion",
           "start": 3,
-          "stop": 3
+          "stop": 3,
+          "text": "next"
         },
         {
           "entity": "StationStart",
           "start": 7,
-          "stop": 7
+          "stop": 7,
+          "text": "garching"
         }
       ]
     },
@@ -2624,17 +2973,20 @@
         {
           "entity": "Vehicle",
           "start": 4,
-          "stop": 4
+          "stop": 4,
+          "text": "train"
         },
         {
           "entity": "Criterion",
           "start": 3,
-          "stop": 3
+          "stop": 3,
+          "text": "next"
         },
         {
           "entity": "StationStart",
           "start": 7,
-          "stop": 7
+          "stop": 7,
+          "text": "odeonsplatz"
         }
       ]
     },
@@ -2645,17 +2997,20 @@
         {
           "entity": "Vehicle",
           "start": 4,
-          "stop": 4
+          "stop": 4,
+          "text": "train"
         },
         {
           "entity": "Criterion",
           "start": 3,
-          "stop": 3
+          "stop": 3,
+          "text": "next"
         },
         {
           "entity": "StationStart",
           "start": 7,
-          "stop": 7
+          "stop": 7,
+          "text": "quiddestraße"
         }
       ]
     },
@@ -2666,12 +3021,14 @@
         {
           "entity": "Vehicle",
           "start": 4,
-          "stop": 4
+          "stop": 4,
+          "text": "train"
         },
         {
           "entity": "Criterion",
           "start": 3,
-          "stop": 3
+          "stop": 3,
+          "text": "next"
         }
       ]
     },
@@ -2682,17 +3039,20 @@
         {
           "entity": "Vehicle",
           "start": 4,
-          "stop": 4
+          "stop": 4,
+          "text": "bus"
         },
         {
           "entity": "Criterion",
           "start": 3,
-          "stop": 3
+          "stop": 3,
+          "text": "next"
         },
         {
           "entity": "StationStart",
           "start": 7,
-          "stop": 8
+          "stop": 8,
+          "text": "garching forschungszentrum"
         }
       ]
     },
@@ -2703,7 +3063,8 @@
         {
           "entity": "Vehicle",
           "start": 4,
-          "stop": 4
+          "stop": 4,
+          "text": "train"
         }
       ]
     },
@@ -2714,17 +3075,20 @@
         {
           "entity": "Vehicle",
           "start": 4,
-          "stop": 4
+          "stop": 4,
+          "text": "bus"
         },
         {
           "entity": "Criterion",
           "start": 3,
-          "stop": 3
+          "stop": 3,
+          "text": "next"
         },
         {
           "entity": "StationStart",
           "start": 7,
-          "stop": 7
+          "stop": 7,
+          "text": "garching"
         }
       ]
     },
@@ -2735,17 +3099,20 @@
         {
           "entity": "Vehicle",
           "start": 4,
-          "stop": 6
+          "stop": 6,
+          "text": "s-bahn"
         },
         {
           "entity": "Criterion",
           "start": 3,
-          "stop": 3
+          "stop": 3,
+          "text": "next"
         },
         {
           "entity": "StationStart",
           "start": 9,
-          "stop": 9
+          "stop": 9,
+          "text": "hauptbahnhof"
         }
       ]
     },
@@ -2756,17 +3123,20 @@
         {
           "entity": "Vehicle",
           "start": 4,
-          "stop": 4
+          "stop": 4,
+          "text": "subway"
         },
         {
           "entity": "Criterion",
           "start": 3,
-          "stop": 3
+          "stop": 3,
+          "text": "next"
         },
         {
           "entity": "StationStart",
           "start": 7,
-          "stop": 7
+          "stop": 7,
+          "text": "odeonsplatz"
         }
       ]
     },
@@ -2777,17 +3147,20 @@
         {
           "entity": "Vehicle",
           "start": 4,
-          "stop": 4
+          "stop": 4,
+          "text": "bus"
         },
         {
           "entity": "Criterion",
           "start": 3,
-          "stop": 3
+          "stop": 3,
+          "text": "next"
         },
         {
           "entity": "StationStart",
           "start": 6,
-          "stop": 6
+          "stop": 6,
+          "text": "garching"
         }
       ]
     },
@@ -2798,17 +3171,20 @@
         {
           "entity": "Vehicle",
           "start": 4,
-          "stop": 4
+          "stop": 4,
+          "text": "tram"
         },
         {
           "entity": "Criterion",
           "start": 3,
-          "stop": 3
+          "stop": 3,
+          "text": "next"
         },
         {
           "entity": "StationStart",
           "start": 7,
-          "stop": 7
+          "stop": 7,
+          "text": "hauptbahnhof"
         }
       ]
     },
@@ -2819,17 +3195,20 @@
         {
           "entity": "Vehicle",
           "start": 4,
-          "stop": 6
+          "stop": 6,
+          "text": "u-bahn"
         },
         {
           "entity": "Criterion",
           "start": 3,
-          "stop": 3
+          "stop": 3,
+          "text": "next"
         },
         {
           "entity": "StationStart",
           "start": 9,
-          "stop": 10
+          "stop": 10,
+          "text": "garching forschungszentrum"
         }
       ]
     },
@@ -2840,17 +3219,20 @@
         {
           "entity": "Vehicle",
           "start": 4,
-          "stop": 4
+          "stop": 4,
+          "text": "bus"
         },
         {
           "entity": "Criterion",
           "start": 3,
-          "stop": 3
+          "stop": 3,
+          "text": "next"
         },
         {
           "entity": "StationStart",
           "start": 6,
-          "stop": 6
+          "stop": 6,
+          "text": "michaelibad"
         }
       ]
     },
@@ -2861,17 +3243,20 @@
         {
           "entity": "Vehicle",
           "start": 4,
-          "stop": 4
+          "stop": 4,
+          "text": "train"
         },
         {
           "entity": "Criterion",
           "start": 3,
-          "stop": 3
+          "stop": 3,
+          "text": "next"
         },
         {
           "entity": "StationStart",
           "start": 7,
-          "stop": 8
+          "stop": 8,
+          "text": "sendlinger tor"
         }
       ]
     },
@@ -2882,17 +3267,20 @@
         {
           "entity": "Vehicle",
           "start": 7,
-          "stop": 7
+          "stop": 7,
+          "text": "bus"
         },
         {
           "entity": "Criterion",
           "start": 6,
-          "stop": 6
+          "stop": 6,
+          "text": "next"
         },
         {
           "entity": "StationStart",
           "start": 10,
-          "stop": 10
+          "stop": 10,
+          "text": "garching"
         }
       ]
     },
@@ -2903,17 +3291,20 @@
         {
           "entity": "Vehicle",
           "start": 4,
-          "stop": 4
+          "stop": 4,
+          "text": "bus"
         },
         {
           "entity": "Criterion",
           "start": 3,
-          "stop": 3
+          "stop": 3,
+          "text": "next"
         },
         {
           "entity": "StationStart",
           "start": 7,
-          "stop": 7
+          "stop": 7,
+          "text": "garching"
         }
       ]
     },
@@ -2924,12 +3315,14 @@
         {
           "entity": "Vehicle",
           "start": 3,
-          "stop": 3
+          "stop": 3,
+          "text": "bus"
         },
         {
           "entity": "StationStart",
           "start": 5,
-          "stop": 5
+          "stop": 5,
+          "text": "quiddestraße"
         }
       ]
     },
@@ -2940,12 +3333,14 @@
         {
           "entity": "Vehicle",
           "start": 5,
-          "stop": 5
+          "stop": 5,
+          "text": "bus"
         },
         {
           "entity": "StationStart",
           "start": 7,
-          "stop": 7
+          "stop": 7,
+          "text": "mariahilfplatz"
         }
       ]
     },
@@ -2956,17 +3351,20 @@
         {
           "entity": "Vehicle",
           "start": 4,
-          "stop": 4
+          "stop": 4,
+          "text": "bus"
         },
         {
           "entity": "Criterion",
           "start": 3,
-          "stop": 3
+          "stop": 3,
+          "text": "next"
         },
         {
           "entity": "StationStart",
           "start": 7,
-          "stop": 7
+          "stop": 7,
+          "text": "romanplatz"
         }
       ]
     },
@@ -2977,12 +3375,14 @@
         {
           "entity": "Vehicle",
           "start": 3,
-          "stop": 3
+          "stop": 3,
+          "text": "bus"
         },
         {
           "entity": "StationStart",
           "start": 5,
-          "stop": 5
+          "stop": 5,
+          "text": "röblingweg"
         }
       ]
     },
@@ -2993,17 +3393,20 @@
         {
           "entity": "Vehicle",
           "start": 1,
-          "stop": 1
+          "stop": 1,
+          "text": "bus"
         },
         {
           "entity": "Criterion",
           "start": 0,
-          "stop": 0
+          "stop": 0,
+          "text": "next"
         },
         {
           "entity": "StationStart",
           "start": 3,
-          "stop": 3
+          "stop": 3,
+          "text": "quiddestraße"
         }
       ]
     },
@@ -3014,17 +3417,20 @@
         {
           "entity": "Vehicle",
           "start": 4,
-          "stop": 4
+          "stop": 4,
+          "text": "bus"
         },
         {
           "entity": "Criterion",
           "start": 3,
-          "stop": 3
+          "stop": 3,
+          "text": "next"
         },
         {
           "entity": "StationStart",
           "start": 7,
-          "stop": 7
+          "stop": 7,
+          "text": "garching"
         }
       ]
     },
@@ -3035,12 +3441,14 @@
         {
           "entity": "Vehicle",
           "start": 3,
-          "stop": 3
+          "stop": 3,
+          "text": "train"
         },
         {
           "entity": "StationStart",
           "start": 6,
-          "stop": 6
+          "stop": 6,
+          "text": "garching"
         }
       ]
     },
@@ -3051,12 +3459,14 @@
         {
           "entity": "Vehicle",
           "start": 3,
-          "stop": 3
+          "stop": 3,
+          "text": "train"
         },
         {
           "entity": "StationStart",
           "start": 6,
-          "stop": 6
+          "stop": 6,
+          "text": "garching"
         }
       ]
     },
@@ -3067,12 +3477,14 @@
         {
           "entity": "StationStart",
           "start": 5,
-          "stop": 5
+          "stop": 5,
+          "text": "garching"
         },
         {
           "entity": "StationDest",
           "start": 7,
-          "stop": 7
+          "stop": 7,
+          "text": "odeonsplatz"
         }
       ]
     },
@@ -3083,17 +3495,20 @@
         {
           "entity": "Vehicle",
           "start": 4,
-          "stop": 4
+          "stop": 4,
+          "text": "subway"
         },
         {
           "entity": "Criterion",
           "start": 3,
-          "stop": 3
+          "stop": 3,
+          "text": "next"
         },
         {
           "entity": "StationStart",
           "start": 7,
-          "stop": 8
+          "stop": 8,
+          "text": "garching forschungszentrum"
         }
       ]
     },
@@ -3104,12 +3519,14 @@
         {
           "entity": "StationStart",
           "start": 5,
-          "stop": 5
+          "stop": 5,
+          "text": "olympiazentrum"
         },
         {
           "entity": "StationDest",
           "start": 7,
-          "stop": 7
+          "stop": 7,
+          "text": "hauptbahnhof"
         }
       ]
     },
@@ -3120,12 +3537,14 @@
         {
           "entity": "StationStart",
           "start": 5,
-          "stop": 5
+          "stop": 5,
+          "text": "quiddestraße"
         },
         {
           "entity": "StationDest",
           "start": 7,
-          "stop": 7
+          "stop": 7,
+          "text": "boltzmannstraße"
         }
       ]
     },
@@ -3136,12 +3555,14 @@
         {
           "entity": "StationStart",
           "start": 5,
-          "stop": 5
+          "stop": 5,
+          "text": "moosach"
         },
         {
           "entity": "StationDest",
           "start": 7,
-          "stop": 8
+          "stop": 8,
+          "text": "garching forschungszentrum"
         }
       ]
     },
@@ -3152,12 +3573,14 @@
         {
           "entity": "StationStart",
           "start": 7,
-          "stop": 7
+          "stop": 7,
+          "text": "garching"
         },
         {
           "entity": "StationDest",
           "start": 9,
-          "stop": 9
+          "stop": 9,
+          "text": "odeonsplatz"
         }
       ]
     },
@@ -3168,17 +3591,20 @@
         {
           "entity": "Vehicle",
           "start": 4,
-          "stop": 4
+          "stop": 4,
+          "text": "train"
         },
         {
           "entity": "Criterion",
           "start": 3,
-          "stop": 3
+          "stop": 3,
+          "text": "next"
         },
         {
           "entity": "StationStart",
           "start": 6,
-          "stop": 6
+          "stop": 6,
+          "text": "garching"
         }
       ]
     },
@@ -3189,12 +3615,14 @@
         {
           "entity": "Vehicle",
           "start": 4,
-          "stop": 4
+          "stop": 4,
+          "text": "train"
         },
         {
           "entity": "Criterion",
           "start": 3,
-          "stop": 3
+          "stop": 3,
+          "text": "next"
         }
       ]
     },
@@ -3205,17 +3633,20 @@
         {
           "entity": "Vehicle",
           "start": 4,
-          "stop": 4
+          "stop": 4,
+          "text": "train"
         },
         {
           "entity": "Criterion",
           "start": 3,
-          "stop": 3
+          "stop": 3,
+          "text": "next"
         },
         {
           "entity": "StationStart",
           "start": 6,
-          "stop": 6
+          "stop": 6,
+          "text": "nordfriedhof"
         }
       ]
     },
@@ -3226,17 +3657,20 @@
         {
           "entity": "Vehicle",
           "start": 4,
-          "stop": 4
+          "stop": 4,
+          "text": "train"
         },
         {
           "entity": "Criterion",
           "start": 3,
-          "stop": 3
+          "stop": 3,
+          "text": "next"
         },
         {
           "entity": "StationStart",
           "start": 7,
-          "stop": 8
+          "stop": 8,
+          "text": "garching forschungszentrum"
         }
       ]
     },
@@ -3247,22 +3681,26 @@
         {
           "entity": "Vehicle",
           "start": 4,
-          "stop": 4
+          "stop": 4,
+          "text": "train"
         },
         {
           "entity": "Criterion",
           "start": 3,
-          "stop": 3
+          "stop": 3,
+          "text": "next"
         },
         {
           "entity": "StationStart",
           "start": 6,
-          "stop": 6
+          "stop": 6,
+          "text": "nordfriedhof"
         },
         {
           "entity": "StationDest",
           "start": 8,
-          "stop": 9
+          "stop": 9,
+          "text": "garching forschungszentrum"
         }
       ]
     },
@@ -3273,12 +3711,14 @@
         {
           "entity": "StationStart",
           "start": 5,
-          "stop": 5
+          "stop": 5,
+          "text": "garching"
         },
         {
           "entity": "StationDest",
           "start": 7,
-          "stop": 7
+          "stop": 7,
+          "text": "odeonsplatz"
         }
       ]
     },
@@ -3289,7 +3729,8 @@
         {
           "entity": "StationDest",
           "start": 5,
-          "stop": 6
+          "stop": 6,
+          "text": "sendlinger tor"
         }
       ]
     },
@@ -3300,7 +3741,8 @@
         {
           "entity": "StationDest",
           "start": 5,
-          "stop": 6
+          "stop": 6,
+          "text": "untere straussäcker"
         }
       ]
     },
@@ -3311,12 +3753,14 @@
         {
           "entity": "StationStart",
           "start": 5,
-          "stop": 5
+          "stop": 5,
+          "text": "garching"
         },
         {
           "entity": "StationDest",
           "start": 7,
-          "stop": 7
+          "stop": 7,
+          "text": "garching"
         }
       ]
     },
@@ -3327,12 +3771,14 @@
         {
           "entity": "StationStart",
           "start": 5,
-          "stop": 5
+          "stop": 5,
+          "text": "garching"
         },
         {
           "entity": "StationDest",
           "start": 7,
-          "stop": 8
+          "stop": 8,
+          "text": "sendlinger tor"
         }
       ]
     },
@@ -3343,12 +3789,14 @@
         {
           "entity": "StationStart",
           "start": 5,
-          "stop": 5
+          "stop": 5,
+          "text": "garchingto"
         },
         {
           "entity": "StationDest",
           "start": 6,
-          "stop": 6
+          "stop": 6,
+          "text": "garching"
         }
       ]
     },
@@ -3359,17 +3807,20 @@
         {
           "entity": "Vehicle",
           "start": 4,
-          "stop": 4
+          "stop": 4,
+          "text": "train"
         },
         {
           "entity": "Criterion",
           "start": 3,
-          "stop": 3
+          "stop": 3,
+          "text": "next"
         },
         {
           "entity": "StationStart",
           "start": 6,
-          "stop": 6
+          "stop": 6,
+          "text": "garching"
         }
       ]
     },
@@ -3380,12 +3831,14 @@
         {
           "entity": "StationStart",
           "start": 5,
-          "stop": 5
+          "stop": 5,
+          "text": "marienplatz"
         },
         {
           "entity": "StationDest",
           "start": 7,
-          "stop": 7
+          "stop": 7,
+          "text": "garching"
         }
       ]
     },
@@ -3396,12 +3849,14 @@
         {
           "entity": "StationStart",
           "start": 7,
-          "stop": 7
+          "stop": 7,
+          "text": "garching"
         },
         {
           "entity": "StationDest",
           "start": 5,
-          "stop": 5
+          "stop": 5,
+          "text": "milbertshofen"
         }
       ]
     },
@@ -3409,20 +3864,23 @@
       "text": "when is the next train to garching",
       "intent": "FindConnection",
       "entities": [
-      	{
+        {
           "entity": "Criterion",
           "start": 3,
-          "stop": 3
+          "stop": 3,
+          "text": "next"
         },
         {
           "entity": "Vehicle",
           "start": 4,
-          "stop": 4
+          "stop": 4,
+          "text": "train"
         },
         {
           "entity": "StationDest",
           "start": 6,
-          "stop": 6
+          "stop": 6,
+          "text": "garching"
         }
       ]
     },
@@ -3433,12 +3891,14 @@
         {
           "entity": "StationStart",
           "start": 5,
-          "stop": 5
+          "stop": 5,
+          "text": "garching"
         },
         {
           "entity": "StationDest",
           "start": 7,
-          "stop": 7
+          "stop": 7,
+          "text": "milbertshofen"
         }
       ]
     },
@@ -3446,20 +3906,23 @@
       "text": "when does the next rocket leaves from garching forschungszentrum?",
       "intent": "DepartureTime",
       "entities": [
-      	{
+        {
           "entity": "Criterion",
           "start": 3,
-          "stop": 3
+          "stop": 3,
+          "text": "next"
         },
         {
           "entity": "Vehicle",
           "start": 4,
-          "stop": 4
+          "stop": 4,
+          "text": "rocket"
         },
         {
           "entity": "StationStart",
           "start": 7,
-          "stop": 8
+          "stop": 8,
+          "text": "garching forschungszentrum"
         }
       ]
     },
@@ -3470,12 +3933,14 @@
         {
           "entity": "StationStart",
           "start": 2,
-          "stop": 4
+          "stop": 4,
+          "text": "untere straßäcker 21"
         },
         {
           "entity": "StationDest",
           "start": 6,
-          "stop": 6
+          "stop": 6,
+          "text": "kieferngarten"
         }
       ]
     },
@@ -3486,12 +3951,14 @@
         {
           "entity": "StationStart",
           "start": 4,
-          "stop": 6
+          "stop": 6,
+          "text": "untere strassäcker 21"
         },
         {
           "entity": "StationDest",
           "start": 8,
-          "stop": 8
+          "stop": 8,
+          "text": "frötmaning"
         }
       ]
     },
@@ -3502,12 +3969,14 @@
         {
           "entity": "StationStart",
           "start": 4,
-          "stop": 6
+          "stop": 6,
+          "text": "untere strassaecker 21"
         },
         {
           "entity": "StationDest",
           "start": 8,
-          "stop": 8
+          "stop": 8,
+          "text": "frötmaning"
         }
       ]
     },
@@ -3518,22 +3987,26 @@
         {
           "entity": "Vehicle",
           "start": 4,
-          "stop": 4
+          "stop": 4,
+          "text": "train"
         },
         {
           "entity": "Criterion",
           "start": 3,
-          "stop": 3
+          "stop": 3,
+          "text": "next"
         },
         {
           "entity": "StationStart",
           "start": 6,
-          "stop": 8
+          "stop": 8,
+          "text": "untere straßaecker 21"
         },
         {
           "entity": "StationDest",
           "start": 10,
-          "stop": 10
+          "stop": 10,
+          "text": "kieferngarten"
         }
       ]
     },
@@ -3544,22 +4017,26 @@
         {
           "entity": "Vehicle",
           "start": 4,
-          "stop": 4
+          "stop": 4,
+          "text": "train"
         },
         {
           "entity": "Criterion",
           "start": 3,
-          "stop": 3
+          "stop": 3,
+          "text": "next"
         },
         {
           "entity": "StationStart",
           "start": 7,
-          "stop": 10
+          "stop": 10,
+          "text": "straßaecker 21, garching"
         },
         {
           "entity": "StationDest",
           "start": 12,
-          "stop": 12
+          "stop": 12,
+          "text": "kieferngarten"
         }
       ]
     },
@@ -3570,12 +4047,14 @@
         {
           "entity": "StationStart",
           "start": 1,
-          "stop": 1
+          "stop": 1,
+          "text": "garching"
         },
         {
           "entity": "StationDest",
           "start": 3,
-          "stop": 3
+          "stop": 3,
+          "text": "perlach"
         }
       ]
     },
@@ -3586,12 +4065,14 @@
         {
           "entity": "StationStart",
           "start": 4,
-          "stop": 4
+          "stop": 4,
+          "text": "garching"
         },
         {
           "entity": "StationDest",
           "start": 6,
-          "stop": 6
+          "stop": 6,
+          "text": "perlach"
         }
       ]
     },
@@ -3602,12 +4083,14 @@
         {
           "entity": "StationStart",
           "start": 4,
-          "stop": 4
+          "stop": 4,
+          "text": "bonnerplatz"
         },
         {
           "entity": "StationDest",
           "start": 6,
-          "stop": 6
+          "stop": 6,
+          "text": "freimann"
         }
       ]
     },
@@ -3618,17 +4101,20 @@
         {
           "entity": "Vehicle",
           "start": 4,
-          "stop": 4
+          "stop": 4,
+          "text": "train"
         },
         {
           "entity": "Criterion",
           "start": 3,
-          "stop": 3
+          "stop": 3,
+          "text": "next"
         },
         {
           "entity": "StationStart",
           "start": 6,
-          "stop": 6
+          "stop": 6,
+          "text": "nordfriedhof"
         }
       ]
     },
@@ -3639,17 +4125,20 @@
         {
           "entity": "Vehicle",
           "start": 4,
-          "stop": 4
+          "stop": 4,
+          "text": "train"
         },
         {
           "entity": "Criterion",
           "start": 3,
-          "stop": 3
+          "stop": 3,
+          "text": "next"
         },
         {
           "entity": "StationStart",
           "start": 6,
-          "stop": 7
+          "stop": 7,
+          "text": "münchner freiheit"
         }
       ]
     },
@@ -3660,12 +4149,14 @@
         {
           "entity": "StationStart",
           "start": 2,
-          "stop": 2
+          "stop": 2,
+          "text": "hauptbahnhof"
         },
         {
           "entity": "StationDest",
           "start": 4,
-          "stop": 4
+          "stop": 4,
+          "text": "odeonsplatz"
         }
       ]
     },
@@ -3676,12 +4167,14 @@
         {
           "entity": "StationStart",
           "start": 5,
-          "stop": 6
+          "stop": 6,
+          "text": "olympia einkaufszentrum"
         },
         {
           "entity": "StationDest",
           "start": 8,
-          "stop": 8
+          "stop": 8,
+          "text": "hauptbahnhof"
         }
       ]
     },
@@ -3692,17 +4185,20 @@
         {
           "entity": "Vehicle",
           "start": 4,
-          "stop": 4
+          "stop": 4,
+          "text": "bus"
         },
         {
           "entity": "Criterion",
           "start": 3,
-          "stop": 3
+          "stop": 3,
+          "text": "next"
         },
         {
           "entity": "StationStart",
           "start": 6,
-          "stop": 7
+          "stop": 7,
+          "text": "garching forschungszentrum"
         }
       ]
     },
@@ -3713,12 +4209,14 @@
         {
           "entity": "StationStart",
           "start": 5,
-          "stop": 5
+          "stop": 5,
+          "text": "garching"
         },
         {
           "entity": "StationDest",
           "start": 7,
-          "stop": 7
+          "stop": 7,
+          "text": "marienplatz"
         }
       ]
     },
@@ -3729,12 +4227,14 @@
         {
           "entity": "StationStart",
           "start": 1,
-          "stop": 1
+          "stop": 1,
+          "text": "garching"
         },
         {
           "entity": "StationDest",
           "start": 3,
-          "stop": 3
+          "stop": 3,
+          "text": "studentenstadt"
         }
       ]
     }

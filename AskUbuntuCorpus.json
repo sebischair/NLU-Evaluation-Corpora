@@ -794,7 +794,7 @@
             "text": "Problem upgrading Ubuntu 9.10",
             "entities": [
                 {
-                    "text": "Lubuntu 9.10",
+                    "text": "Ubuntu 9.10",
                     "entity": "UbuntuVersion",
                     "stop": 5,
                     "start": 3
@@ -1459,13 +1459,13 @@
             "text": "Upgrading From 11.04 (32bit) to 12.04 (64bit)",
             "entities": [
                 {
-                    "text": "11.04 (32 bit)",
+                    "text": "11.04 (32bit)",
                     "entity": "UbuntuVersion",
                     "stop": 7,
                     "start": 2
                 },
                 {
-                    "text": "12.04 (64 bit)",
+                    "text": "12.04 (64bit)",
                     "entity": "UbuntuVersion",
                     "stop": 14,
                     "start": 9
@@ -1599,7 +1599,7 @@
             "text": "Cannot install printer driver epson l210",
             "entities": [
                 {
-                    "text": "epson 1210",
+                    "text": "epson l210",
                     "entity": "Printer",
                     "stop": 5,
                     "start": 4
