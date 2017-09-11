@@ -81,7 +81,7 @@
       ]
     },
     {
-      "text": "when is the next train from winterstra\u00c3\u0178e 12 to kieferngarten",
+      "text": "when is the next train from winterstraße 12 to kieferngarten",
       "intent": "FindConnection",
       "entities": [
         {
@@ -100,7 +100,7 @@
           "entity": "StationStart",
           "start": 6,
           "stop": 7,
-          "text": "winterstra\u00c3\u0178e 12"
+          "text": "winterstraße 12"
         },
         {
           "entity": "StationDest",
@@ -111,7 +111,7 @@
       ]
     },
     {
-      "text": "when is the next rocket from winterstra\u00c3\u0178e 12 to kieferngarte",
+      "text": "when is the next rocket from winterstraße 12 to kieferngarte",
       "intent": "FindConnection",
       "entities": [
         {
@@ -130,7 +130,7 @@
           "entity": "StationStart",
           "start": 6,
           "stop": 7,
-          "text": "winterstra\u00c3\u0178e 12"
+          "text": "winterstraße 12"
         },
         {
           "entity": "StationDest",
@@ -159,20 +159,20 @@
       ]
     },
     {
-      "text": "how to get from untere strass\u00c3\u00a4cker 21 to fr\u00c3\u00b6ttmaning",
+      "text": "how to get from untere strassäcker 21 to fröttmaning",
       "intent": "FindConnection",
       "entities": [
         {
           "entity": "StationStart",
           "start": 4,
           "stop": 6,
-          "text": "untere strass\u00c3\u00a4cker 21"
+          "text": "untere strassäcker 21"
         },
         {
           "entity": "StationDest",
           "start": 8,
           "stop": 8,
-          "text": "fr\u00c3\u00b6ttmaning"
+          "text": "fröttmaning"
         }
       ]
     },
@@ -195,14 +195,14 @@
       ]
     },
     {
-      "text": "connection from boltzmannstra\u00c3\u0178e to kieferngarten",
+      "text": "connection from boltzmannstraße to kieferngarten",
       "intent": "FindConnection",
       "entities": [
         {
           "entity": "StationStart",
           "start": 2,
           "stop": 2,
-          "text": "boltzmannstra\u00c3\u0178e"
+          "text": "boltzmannstraße"
         },
         {
           "entity": "StationDest",
@@ -273,7 +273,7 @@
       ]
     },
     {
-      "text": "how to get from winterstrasse 12 to fr\u00c3\u00b6ttmaning",
+      "text": "how to get from winterstrasse 12 to fröttmaning",
       "intent": "FindConnection",
       "entities": [
         {
@@ -286,7 +286,7 @@
           "entity": "StationDest",
           "start": 7,
           "stop": 7,
-          "text": "fr\u00c3\u00b6ttmaning"
+          "text": "fröttmaning"
         }
       ]
     },
@@ -309,14 +309,14 @@
       ]
     },
     {
-      "text": "theresienstra\u00c3\u0178e to assling",
+      "text": "theresienstraße to assling",
       "intent": "FindConnection",
       "entities": [
         {
           "entity": "StationStart",
           "start": 0,
           "stop": 0,
-          "text": "theresienstra\u00c3\u0178e"
+          "text": "theresienstraße"
         },
         {
           "entity": "StationDest",
@@ -327,14 +327,14 @@
       ]
     },
     {
-      "text": "how can i get from theresienstra\u00c3\u0178e to munich east?",
+      "text": "how can i get from theresienstraße to munich east?",
       "intent": "FindConnection",
       "entities": [
         {
           "entity": "StationStart",
           "start": 5,
           "stop": 5,
-          "text": "theresienstra\u00c3\u0178e"
+          "text": "theresienstraße"
         },
         {
           "entity": "StationDest",
@@ -369,14 +369,14 @@
       ]
     },
     {
-      "text": "from quiddestra\u00c3\u0178e to garching?",
+      "text": "from quiddestraße to garching?",
       "intent": "FindConnection",
       "entities": [
         {
           "entity": "StationStart",
           "start": 1,
           "stop": 1,
-          "text": "quiddestra\u00c3\u0178e"
+          "text": "quiddestraße"
         },
         {
           "entity": "StationDest",
@@ -387,14 +387,14 @@
       ]
     },
     {
-      "text": "can you find a connection from kurt-eisner-stra\u00c3\u0178e to garching forschungszentrum?",
+      "text": "can you find a connection from kurt-eisner-straße to garching forschungszentrum?",
       "intent": "FindConnection",
       "entities": [
         {
           "entity": "StationStart",
           "start": 6,
           "stop": 10,
-          "text": "kurt-eisner-stra\u00c3\u0178e"
+          "text": "kurt-eisner-straße"
         },
         {
           "entity": "StationDest",
@@ -405,14 +405,14 @@
       ]
     },
     {
-      "text": "can you find a connection from quiddestra\u00c3\u0178e to garching forschungszentrum?",
+      "text": "can you find a connection from quiddestraße to garching forschungszentrum?",
       "intent": "FindConnection",
       "entities": [
         {
           "entity": "StationStart",
           "start": 6,
           "stop": 6,
-          "text": "quiddestra\u00c3\u0178e"
+          "text": "quiddestraße"
         },
         {
           "entity": "StationDest",
@@ -543,7 +543,7 @@
       ]
     },
     {
-      "text": "how can i get from moosach to quiddestra\u00c3\u0178e?",
+      "text": "how can i get from moosach to quiddestraße?",
       "intent": "FindConnection",
       "entities": [
         {
@@ -556,12 +556,12 @@
           "entity": "StationDest",
           "start": 7,
           "stop": 7,
-          "text": "quiddestra\u00c3\u0178e"
+          "text": "quiddestraße"
         }
       ]
     },
     {
-      "text": "how can i get from moosach to poccistra\u00c3\u0178e?",
+      "text": "how can i get from moosach to poccistraße?",
       "intent": "FindConnection",
       "entities": [
         {
@@ -574,19 +574,19 @@
           "entity": "StationDest",
           "start": 7,
           "stop": 7,
-          "text": "poccistra\u00c3\u0178e"
+          "text": "poccistraße"
         }
       ]
     },
     {
-      "text": "how can i get from kurt-eisner-stra\u00c3\u0178e to garching forschungszentrum?",
+      "text": "how can i get from kurt-eisner-straße to garching forschungszentrum?",
       "intent": "FindConnection",
       "entities": [
         {
           "entity": "StationStart",
           "start": 5,
           "stop": 9,
-          "text": "kurt-eisner-stra\u00c3\u0178e"
+          "text": "kurt-eisner-straße"
         },
         {
           "entity": "StationDest",
@@ -597,7 +597,7 @@
       ]
     },
     {
-      "text": "how can i get from moosach to quiddestra\u00c3\u0178e?",
+      "text": "how can i get from moosach to quiddestraße?",
       "intent": "FindConnection",
       "entities": [
         {
@@ -610,7 +610,7 @@
           "entity": "StationDest",
           "start": 7,
           "stop": 7,
-          "text": "quiddestra\u00c3\u0178e"
+          "text": "quiddestraße"
         }
       ]
     },
@@ -657,7 +657,7 @@
       ]
     },
     {
-      "text": "what's the shortest way from quiddestra\u00c3\u0178e to odeonsplatz?",
+      "text": "what's the shortest way from quiddestraße to odeonsplatz?",
       "intent": "FindConnection",
       "entities": [
         {
@@ -670,7 +670,7 @@
           "entity": "StationStart",
           "start": 7,
           "stop": 7,
-          "text": "quiddestra\u00c3\u0178e"
+          "text": "quiddestraße"
         },
         {
           "entity": "StationDest",
@@ -765,14 +765,14 @@
       ]
     },
     {
-      "text": "how do i get from poccistra\u00c3\u0178e to laim",
+      "text": "how do i get from poccistraße to laim",
       "intent": "FindConnection",
       "entities": [
         {
           "entity": "StationStart",
           "start": 5,
           "stop": 5,
-          "text": "poccistra\u00c3\u0178e"
+          "text": "poccistraße"
         },
         {
           "entity": "StationDest",
@@ -1335,14 +1335,14 @@
       ]
     },
     {
-      "text": "how to get from m\u00c3\u00bcnchner freiheit to garching ?",
+      "text": "how to get from münchner freiheit to garching ?",
       "intent": "FindConnection",
       "entities": [
         {
           "entity": "StationStart",
           "start": 4,
           "stop": 5,
-          "text": "m\u00c3\u00bcnchner freiheit"
+          "text": "münchner freiheit"
         },
         {
           "entity": "StationDest",
@@ -1353,14 +1353,14 @@
       ]
     },
     {
-      "text": "implerstra\u00c3\u0178e to ostbahnhof",
+      "text": "implerstraße to ostbahnhof",
       "intent": "FindConnection",
       "entities": [
         {
           "entity": "StationStart",
           "start": 0,
           "stop": 0,
-          "text": "implerstra\u00c3\u0178e"
+          "text": "implerstraße"
         },
         {
           "entity": "StationDest",
@@ -1425,19 +1425,19 @@
       ]
     },
     {
-      "text": "how can i get to hohenlindenerstra\u00c3\u0178e",
+      "text": "how can i get to hohenlindenerstraße",
       "intent": "FindConnection",
       "entities": [
         {
           "entity": "StationDest",
           "start": 5,
           "stop": 5,
-          "text": "hohenlindenerstra\u00c3\u0178e"
+          "text": "hohenlindenerstraße"
         }
       ]
     },
     {
-      "text": "harthaus to hackerbr\u00c3\u00bccke",
+      "text": "harthaus to hackerbrücke",
       "intent": "FindConnection",
       "entities": [
         {
@@ -1450,7 +1450,7 @@
           "entity": "StationDest",
           "start": 2,
           "stop": 2,
-          "text": "hackerbr\u00c3\u00bccke"
+          "text": "hackerbrücke"
         }
       ]
     },
@@ -1587,7 +1587,7 @@
       ]
     },
     {
-      "text": "how do i get from spitzingplatz to poccistra\u00c3\u0178e?",
+      "text": "how do i get from spitzingplatz to poccistraße?",
       "intent": "FindConnection",
       "entities": [
         {
@@ -1600,7 +1600,7 @@
           "entity": "StationDest",
           "start": 7,
           "stop": 7,
-          "text": "poccistra\u00c3\u0178e"
+          "text": "poccistraße"
         }
       ]
     },
@@ -1779,14 +1779,14 @@
       ]
     },
     {
-      "text": "hello munich city bot! how do i get from m\u00c3\u00bcnchner freiheit to scheidplatz?",
+      "text": "hello munich city bot! how do i get from münchner freiheit to scheidplatz?",
       "intent": "FindConnection",
       "entities": [
         {
           "entity": "StationStart",
           "start": 10,
           "stop": 11,
-          "text": "m\u00c3\u00bcnchner freiheit"
+          "text": "münchner freiheit"
         },
         {
           "entity": "StationDest",
@@ -1887,7 +1887,7 @@
       ]
     },
     {
-      "text": "from harthaus to hackerbr\u00c3\u00bccke",
+      "text": "from harthaus to hackerbrücke",
       "intent": "FindConnection",
       "entities": [
         {
@@ -1900,7 +1900,7 @@
           "entity": "StationDest",
           "start": 3,
           "stop": 3,
-          "text": "hackerbr\u00c3\u00bccke"
+          "text": "hackerbrücke"
         }
       ]
     },
@@ -1923,7 +1923,7 @@
       ]
     },
     {
-      "text": "what is the next train from m\u00c3\u00bcnchner freiheit",
+      "text": "what is the next train from münchner freiheit",
       "intent": "DepartureTime",
       "entities": [
         {
@@ -1942,7 +1942,7 @@
           "entity": "StationStart",
           "start": 6,
           "stop": 7,
-          "text": "m\u00c3\u00bcnchner freiheit"
+          "text": "münchner freiheit"
         }
       ]
     },
@@ -1965,14 +1965,14 @@
       ]
     },
     {
-      "text": "how can i get from m\u00c3\u00bcnchner freiheit to odeonsplatz",
+      "text": "how can i get from münchner freiheit to odeonsplatz",
       "intent": "FindConnection",
       "entities": [
         {
           "entity": "StationStart",
           "start": 5,
           "stop": 6,
-          "text": "m\u00c3\u00bcnchner freiheit"
+          "text": "münchner freiheit"
         },
         {
           "entity": "StationDest",
@@ -2097,7 +2097,7 @@
       ]
     },
     {
-      "text": "what's the shortest connection between quiddestra\u00c3\u0178e and odeonsplatz?",
+      "text": "what's the shortest connection between quiddestraße and odeonsplatz?",
       "intent": "FindConnection",
       "entities": [
         {
@@ -2110,7 +2110,7 @@
           "entity": "StationStart",
           "start": 7,
           "stop": 7,
-          "text": "quiddestra\u00c3\u0178e"
+          "text": "quiddestraße"
         },
         {
           "entity": "StationDest",
@@ -2121,7 +2121,7 @@
       ]
     },
     {
-      "text": "what is the cheapest connection between quiddestra\u00c3\u0178e and hauptbahnhof?",
+      "text": "what is the cheapest connection between quiddestraße and hauptbahnhof?",
       "intent": "FindConnection",
       "entities": [
         {
@@ -2134,7 +2134,7 @@
           "entity": "StationStart",
           "start": 6,
           "stop": 6,
-          "text": "quiddestra\u00c3\u0178e"
+          "text": "quiddestraße"
         },
         {
           "entity": "StationDest",
@@ -2169,7 +2169,7 @@
       ]
     },
     {
-      "text": "how can i get from garching to m\u00c3\u00bcnchner freiheit as fast as possible?",
+      "text": "how can i get from garching to münchner freiheit as fast as possible?",
       "intent": "FindConnection",
       "entities": [
         {
@@ -2188,12 +2188,12 @@
           "entity": "StationDest",
           "start": 7,
           "stop": 8,
-          "text": "m\u00c3\u00bcnchner freiheit"
+          "text": "münchner freiheit"
         }
       ]
     },
     {
-      "text": "what's the cheapest way from neuperlach s\u00c3\u00bcd to lehel?",
+      "text": "what's the cheapest way from neuperlach süd to lehel?",
       "intent": "FindConnection",
       "entities": [
         {
@@ -2206,7 +2206,7 @@
           "entity": "StationStart",
           "start": 7,
           "stop": 8,
-          "text": "neuperlach s\u00c3\u00bcd"
+          "text": "neuperlach süd"
         },
         {
           "entity": "StationDest",
@@ -2241,7 +2241,7 @@
       ]
     },
     {
-      "text": "could you give me the fastest connection between bruderm\u00c3\u00bchlstra\u00c3\u0178e and alte heide?",
+      "text": "could you give me the fastest connection between brudermühlstraße and alte heide?",
       "intent": "FindConnection",
       "entities": [
         {
@@ -2254,7 +2254,7 @@
           "entity": "StationStart",
           "start": 8,
           "stop": 8,
-          "text": "bruderm\u00c3\u00bchlstra\u00c3\u0178e"
+          "text": "brudermühlstraße"
         },
         {
           "entity": "StationDest",
@@ -2379,7 +2379,7 @@
       ]
     },
     {
-      "text": "can i take a bus from quiddestra\u00c3\u0178e to hauptbahnhof?",
+      "text": "can i take a bus from quiddestraße to hauptbahnhof?",
       "intent": "FindConnection",
       "entities": [
         {
@@ -2392,7 +2392,7 @@
           "entity": "StationStart",
           "start": 6,
           "stop": 6,
-          "text": "quiddestra\u00c3\u0178e"
+          "text": "quiddestraße"
         },
         {
           "entity": "StationDest",
@@ -2427,7 +2427,7 @@
       ]
     },
     {
-      "text": "how can i get to neuperlach s\u00c3\u00bcd from garching forschungszentrum?",
+      "text": "how can i get to neuperlach süd from garching forschungszentrum?",
       "intent": "FindConnection",
       "entities": [
         {
@@ -2440,12 +2440,12 @@
           "entity": "StationDest",
           "start": 5,
           "stop": 6,
-          "text": "neuperlach s\u00c3\u00bcd"
+          "text": "neuperlach süd"
         }
       ]
     },
     {
-      "text": "can you find a bus from quiddestra\u00c3\u0178e to lehel?",
+      "text": "can you find a bus from quiddestraße to lehel?",
       "intent": "FindConnection",
       "entities": [
         {
@@ -2458,7 +2458,7 @@
           "entity": "StationStart",
           "start": 6,
           "stop": 6,
-          "text": "quiddestra\u00c3\u0178e"
+          "text": "quiddestraße"
         },
         {
           "entity": "StationDest",
@@ -2553,7 +2553,7 @@
       ]
     },
     {
-      "text": "can you tell me the cheapest way from garching forschungszentrum to quiddestra\u00c3\u0178e?",
+      "text": "can you tell me the cheapest way from garching forschungszentrum to quiddestraße?",
       "intent": "FindConnection",
       "entities": [
         {
@@ -2572,19 +2572,19 @@
           "entity": "StationDest",
           "start": 11,
           "stop": 11,
-          "text": "quiddestra\u00c3\u0178e"
+          "text": "quiddestraße"
         }
       ]
     },
     {
-      "text": "how can i get to quiddestra\u00c3\u0178e?",
+      "text": "how can i get to quiddestraße?",
       "intent": "FindConnection",
       "entities": [
         {
           "entity": "StationDest",
           "start": 5,
           "stop": 5,
-          "text": "quiddestra\u00c3\u0178e"
+          "text": "quiddestraße"
         }
       ]
     },
@@ -2631,14 +2631,14 @@
       ]
     },
     {
-      "text": "how can i get from kurt-eisner-stra\u00c3\u0178e to garching?",
+      "text": "how can i get from kurt-eisner-straße to garching?",
       "intent": "FindConnection",
       "entities": [
         {
           "entity": "StationStart",
           "start": 5,
           "stop": 9,
-          "text": "kurt-eisner-stra\u00c3\u0178e"
+          "text": "kurt-eisner-straße"
         },
         {
           "entity": "StationDest",
@@ -2751,7 +2751,7 @@
       ]
     },
     {
-      "text": "how can i get from garching forschungszentrum to kurt-eisner-stra\u00c3\u0178e?",
+      "text": "how can i get from garching forschungszentrum to kurt-eisner-straße?",
       "intent": "FindConnection",
       "entities": [
         {
@@ -2764,30 +2764,30 @@
           "entity": "StationDest",
           "start": 8,
           "stop": 12,
-          "text": "kurt-eisner-stra\u00c3\u0178e"
+          "text": "kurt-eisner-straße"
         }
       ]
     },
     {
-      "text": "how can i get to boltzmannstra\u00c3\u0178e from quiddestra\u00c3\u0178e?",
+      "text": "how can i get to boltzmannstraße from quiddestraße?",
       "intent": "FindConnection",
       "entities": [
         {
           "entity": "StationStart",
           "start": 7,
           "stop": 7,
-          "text": "quiddestra\u00c3\u0178e"
+          "text": "quiddestraße"
         },
         {
           "entity": "StationDest",
           "start": 5,
           "stop": 5,
-          "text": "boltzmannstra\u00c3\u0178e"
+          "text": "boltzmannstraße"
         }
       ]
     },
     {
-      "text": "when does the next train departs from quiddestra\u00c3\u0178e?",
+      "text": "when does the next train departs from quiddestraße?",
       "intent": "DepartureTime",
       "entities": [
         {
@@ -2806,7 +2806,7 @@
           "entity": "StationStart",
           "start": 7,
           "stop": 7,
-          "text": "quiddestra\u00c3\u0178e"
+          "text": "quiddestraße"
         }
       ]
     },
@@ -2991,7 +2991,7 @@
       ]
     },
     {
-      "text": "when does the next train leaves from quiddestra\u00c3\u0178e?",
+      "text": "when does the next train leaves from quiddestraße?",
       "intent": "DepartureTime",
       "entities": [
         {
@@ -3010,7 +3010,7 @@
           "entity": "StationStart",
           "start": 7,
           "stop": 7,
-          "text": "quiddestra\u00c3\u0178e"
+          "text": "quiddestraße"
         }
       ]
     },
@@ -3309,7 +3309,7 @@
       ]
     },
     {
-      "text": "when is the bus from quiddestra\u00c3\u0178e?",
+      "text": "when is the bus from quiddestraße?",
       "intent": "DepartureTime",
       "entities": [
         {
@@ -3322,7 +3322,7 @@
           "entity": "StationStart",
           "start": 5,
           "stop": 5,
-          "text": "quiddestra\u00c3\u0178e"
+          "text": "quiddestraße"
         }
       ]
     },
@@ -3369,7 +3369,7 @@
       ]
     },
     {
-      "text": "when does the bus to r\u00c3\u00b6blingweg starts?",
+      "text": "when does the bus to röblingweg starts?",
       "intent": "DepartureTime",
       "entities": [
         {
@@ -3382,12 +3382,12 @@
           "entity": "StationStart",
           "start": 5,
           "stop": 5,
-          "text": "r\u00c3\u00b6blingweg"
+          "text": "röblingweg"
         }
       ]
     },
     {
-      "text": "next bus from quiddestra\u00c3\u0178e?",
+      "text": "next bus from quiddestraße?",
       "intent": "DepartureTime",
       "entities": [
         {
@@ -3406,7 +3406,7 @@
           "entity": "StationStart",
           "start": 3,
           "stop": 3,
-          "text": "quiddestra\u00c3\u0178e"
+          "text": "quiddestraße"
         }
       ]
     },
@@ -3531,20 +3531,20 @@
       ]
     },
     {
-      "text": "how can i get from quiddestra\u00c3\u0178e to boltzmannstra\u00c3\u0178e?",
+      "text": "how can i get from quiddestraße to boltzmannstraße?",
       "intent": "FindConnection",
       "entities": [
         {
           "entity": "StationStart",
           "start": 5,
           "stop": 5,
-          "text": "quiddestra\u00c3\u0178e"
+          "text": "quiddestraße"
         },
         {
           "entity": "StationDest",
           "start": 7,
           "stop": 7,
-          "text": "boltzmannstra\u00c3\u0178e"
+          "text": "boltzmannstraße"
         }
       ]
     },
@@ -3735,14 +3735,14 @@
       ]
     },
     {
-      "text": "how do i get to untere strauss\u00c3\u00a4cker?",
+      "text": "how do i get to untere straussäcker?",
       "intent": "FindConnection",
       "entities": [
         {
           "entity": "StationDest",
           "start": 5,
           "stop": 6,
-          "text": "untere strauss\u00c3\u00a4cker"
+          "text": "untere straussäcker"
         }
       ]
     },
@@ -3927,14 +3927,14 @@
       ]
     },
     {
-      "text": "connection from untere stra\u00c3\u0178\u00c3\u00a4cker 21 to kieferngarten",
+      "text": "connection from untere straßäcker 21 to kieferngarten",
       "intent": "FindConnection",
       "entities": [
         {
           "entity": "StationStart",
           "start": 2,
           "stop": 4,
-          "text": "untere stra\u00c3\u0178\u00c3\u00a4cker 21"
+          "text": "untere straßäcker 21"
         },
         {
           "entity": "StationDest",
@@ -3945,25 +3945,25 @@
       ]
     },
     {
-      "text": "how to get from untere strass\u00c3\u00a4cker 21 to fr\u00c3\u00b6tmaning",
+      "text": "how to get from untere strassäcker 21 to frötmaning",
       "intent": "FindConnection",
       "entities": [
         {
           "entity": "StationStart",
           "start": 4,
           "stop": 6,
-          "text": "untere strass\u00c3\u00a4cker 21"
+          "text": "untere strassäcker 21"
         },
         {
           "entity": "StationDest",
           "start": 8,
           "stop": 8,
-          "text": "fr\u00c3\u00b6tmaning"
+          "text": "frötmaning"
         }
       ]
     },
     {
-      "text": "how to get from untere strassaecker 21 to fr\u00c3\u00b6tmaning",
+      "text": "how to get from untere strassaecker 21 to frötmaning",
       "intent": "FindConnection",
       "entities": [
         {
@@ -3976,12 +3976,12 @@
           "entity": "StationDest",
           "start": 8,
           "stop": 8,
-          "text": "fr\u00c3\u00b6tmaning"
+          "text": "frötmaning"
         }
       ]
     },
     {
-      "text": "when is the next train from untere stra\u00c3\u0178aecker 21 to kieferngarten",
+      "text": "when is the next train from untere straßaecker 21 to kieferngarten",
       "intent": "FindConnection",
       "entities": [
         {
@@ -4000,7 +4000,7 @@
           "entity": "StationStart",
           "start": 6,
           "stop": 8,
-          "text": "untere stra\u00c3\u0178aecker 21"
+          "text": "untere straßaecker 21"
         },
         {
           "entity": "StationDest",
@@ -4011,7 +4011,7 @@
       ]
     },
     {
-      "text": "when is the next train from untere stra\u00c3\u0178aecker 21, garching to kieferngarten",
+      "text": "when is the next train from untere straßaecker 21, garching to kieferngarten",
       "intent": "FindConnection",
       "entities": [
         {
@@ -4030,7 +4030,7 @@
           "entity": "StationStart",
           "start": 7,
           "stop": 10,
-          "text": "stra\u00c3\u0178aecker 21, garching"
+          "text": "straßaecker 21, garching"
         },
         {
           "entity": "StationDest",
@@ -4119,7 +4119,7 @@
       ]
     },
     {
-      "text": "when is the next train in m\u00c3\u00bcnchner freiheit?",
+      "text": "when is the next train in münchner freiheit?",
       "intent": "DepartureTime",
       "entities": [
         {
@@ -4138,7 +4138,7 @@
           "entity": "StationStart",
           "start": 6,
           "stop": 7,
-          "text": "m\u00c3\u00bcnchner freiheit"
+          "text": "münchner freiheit"
         }
       ]
     },
