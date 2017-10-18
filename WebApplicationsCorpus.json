@@ -1,6 +1,7 @@
 {
-  "name": "WebApplicationsCorpus",
-  "desc": "Visit https://github.com/sebischair/NLU-Evaluation-Corpora for more information",
+	"name": "WebApplicationsCorpus",
+	"desc": "Visit https://github.com/sebischair/NLU-Evaluation-Corpora for more information",
+	"lang": "en",
     "sentences": [
         {
             "author": "Evan Plaice",
@@ -1731,7 +1732,5 @@
             },
             "training": true
         }
-    ],
-    "name": "WebApplicationsCorpus",
-    "desc": "Anonymized review version"
+    ]
 }

@@ -1,7 +1,8 @@
 {
-  "name": "AskUbuntuCorpus",
-  "desc": "Visit https://github.com/sebischair/NLU-Evaluation-Corpora for more information",
-    "sentences": [
+	"name": "AskUbuntuCorpus",
+	"desc": "Visit https://github.com/sebischair/NLU-Evaluation-Corpora for more information",
+	"lang": "en",
+	"sentences": [
         {
             "author": "Olivier Lalonde",
             "url": "http://askubuntu.com/questions/14378/what-software-can-i-use-to-view-epub-documents",
@@ -2619,7 +2620,5 @@
                 "author": "Maythux"
             }
         }
-    ],
-    "name": "UbuntuCorpus",
-    "desc": "Anonymized review version"
+	]
 }
