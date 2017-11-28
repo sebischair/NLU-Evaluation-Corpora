@@ -602,9 +602,9 @@
       "entities": [
         {
           "entity": "StationStart",
-          "start": 8,
-          "stop": 8,
-          "text": "?"
+          "start": 5,
+          "stop": 5,
+          "text": "moosach"
         },
         {
           "entity": "StationDest",
