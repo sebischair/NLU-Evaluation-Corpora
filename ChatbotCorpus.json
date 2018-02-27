@@ -1,6 +1,7 @@
 {
   "name": "ChatbotCorpus",
   "desc": "Visit https://github.com/sebischair/NLU-Evaluation-Corpora for more information",
+  "lang": "en",
   "sentences": [
     {
       "text": "i want to go marienplatz",
