@@ -38,6 +38,9 @@ Eight intents (ChangePassword, DeleteAccount, DownloadVideo, ExportData, FilterS
 
 Two intents (Departure Time, Find Connection) and five entity types (StationStart, StationDest, Criterion, Vehicle, Line).
 
+## Evaluation Scripts
+Python scripts for automated evaluation are provided [here](https://github.com/sebischair/NLU-Evaluation-Scripts).
+
 ## Contact Information
 If you have any questions, please contact:
 
