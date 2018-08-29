@@ -13,7 +13,8 @@
           "stop": 4,
           "text": "marienplatz"
         }
-      ]
+      ],
+      "training": false
     },
     {
       "text": "when is the next train in muncher freiheit?",
@@ -37,7 +38,8 @@
           "stop": 7,
           "text": "muncher freiheit"
         }
-      ]
+      ],
+      "training": false
     },
     {
       "text": "when does the next u-bahn leaves from garching forschungszentrum?",
@@ -61,7 +63,8 @@
           "stop": 10,
           "text": "garching forschungszentrum"
         }
-      ]
+      ],
+      "training": false
     },
     {
       "text": "from olympia einkaufszentrum to hauptbahnhof",
@@ -79,7 +82,8 @@
           "stop": 4,
           "text": "hauptbahnhof"
         }
-      ]
+      ],
+      "training": false
     },
     {
       "text": "when is the next train from winterstraße 12 to kieferngarten",
@@ -109,7 +113,8 @@
           "stop": 9,
           "text": "kieferngarten"
         }
-      ]
+      ],
+      "training": false
     },
     {
       "text": "when is the next rocket from winterstraße 12 to kieferngarte",
@@ -139,7 +144,8 @@
           "stop": 9,
           "text": "kieferngarte"
         }
-      ]
+      ],
+      "training": false
     },
     {
       "text": "can you find a connection from garching to hauptbahnhof?",
@@ -157,7 +163,8 @@
           "stop": 8,
           "text": "hauptbahnhof"
         }
-      ]
+      ],
+      "training": false
     },
     {
       "text": "how to get from untere strassäcker 21 to fröttmaning",
@@ -175,7 +182,8 @@
           "stop": 8,
           "text": "fröttmaning"
         }
-      ]
+      ],
+      "training": false
     },
     {
       "text": "how i can get from marienplatz to garching",
@@ -193,7 +201,8 @@
           "stop": 7,
           "text": "garching"
         }
-      ]
+      ],
+      "training": false
     },
     {
       "text": "connection from boltzmannstraße to kieferngarten",
@@ -211,7 +220,8 @@
           "stop": 4,
           "text": "kieferngarten"
         }
-      ]
+      ],
+      "training": false
     },
     {
       "text": "how to get from bonner platz to freimann?",
@@ -229,7 +239,8 @@
           "stop": 7,
           "text": "freimann"
         }
-      ]
+      ],
+      "training": false
     },
     {
       "text": "when is the next s-bahn leaving at garching?",
@@ -253,7 +264,8 @@
           "stop": 9,
           "text": "garching"
         }
-      ]
+      ],
+      "training": false
     },
     {
       "text": "how do i get from oez to hbf?",
@@ -271,7 +283,8 @@
           "stop": 7,
           "text": "hbf"
         }
-      ]
+      ],
+      "training": false
     },
     {
       "text": "how to get from winterstrasse 12 to fröttmaning",
@@ -289,7 +302,8 @@
           "stop": 7,
           "text": "fröttmaning"
         }
-      ]
+      ],
+      "training": false
     },
     {
       "text": "how do i get from garching forschungszentrum to pasing",
@@ -307,7 +321,8 @@
           "stop": 8,
           "text": "pasing"
         }
-      ]
+      ],
+      "training": false
     },
     {
       "text": "theresienstraße to assling",
@@ -325,7 +340,8 @@
           "stop": 2,
           "text": "assling"
         }
-      ]
+      ],
+      "training": false
     },
     {
       "text": "how can i get from theresienstraße to munich east?",
@@ -343,7 +359,8 @@
           "stop": 8,
           "text": "munich east"
         }
-      ]
+      ],
+      "training": false
     },
     {
       "text": "when does the next bus starts from garching?",
@@ -367,7 +384,8 @@
           "stop": 7,
           "text": "garching"
         }
-      ]
+      ],
+      "training": false
     },
     {
       "text": "from quiddestraße to garching?",
@@ -385,7 +403,8 @@
           "stop": 3,
           "text": "garching"
         }
-      ]
+      ],
+      "training": false
     },
     {
       "text": "can you find a connection from kurt-eisner-straße to garching forschungszentrum?",
@@ -403,7 +422,8 @@
           "stop": 13,
           "text": "garching forschungszentrum"
         }
-      ]
+      ],
+      "training": false
     },
     {
       "text": "can you find a connection from quiddestraße to garching forschungszentrum?",
@@ -421,7 +441,8 @@
           "stop": 9,
           "text": "garching forschungszentrum"
         }
-      ]
+      ],
+      "training": false
     },
     {
       "text": "when does the next train leaves at garching?",
@@ -445,7 +466,8 @@
           "stop": 7,
           "text": "garching"
         }
-      ]
+      ],
+      "training": false
     },
     {
       "text": "from hauptbahnhof to garching?",
@@ -463,7 +485,8 @@
           "stop": 3,
           "text": "garching"
         }
-      ]
+      ],
+      "training": false
     },
     {
       "text": "how can i get to glockenbachviertel from garching forschungszentrum?",
@@ -481,7 +504,8 @@
           "stop": 5,
           "text": "glockenbachviertel"
         }
-      ]
+      ],
+      "training": false
     },
     {
       "text": "how i can get from garching to nordfriedhof",
@@ -499,7 +523,8 @@
           "stop": 7,
           "text": "nordfriedhof"
         }
-      ]
+      ],
+      "training": false
     },
     {
       "text": "how can i get to glockenbachviertel from garching forschungszentrum?",
@@ -517,7 +542,8 @@
           "stop": 5,
           "text": "glockenbachviertel"
         }
-      ]
+      ],
+      "training": false
     },
     {
       "text": "when is the next train leaving in garching forschungszentrum",
@@ -541,7 +567,8 @@
           "stop": 8,
           "text": "garching forschungszentrum"
         }
-      ]
+      ],
+      "training": false
     },
     {
       "text": "how can i get from moosach to quiddestraße?",
@@ -559,7 +586,8 @@
           "stop": 7,
           "text": "quiddestraße"
         }
-      ]
+      ],
+      "training": false
     },
     {
       "text": "how can i get from moosach to poccistraße?",
@@ -577,7 +605,8 @@
           "stop": 7,
           "text": "poccistraße"
         }
-      ]
+      ],
+      "training": false
     },
     {
       "text": "how can i get from kurt-eisner-straße to garching forschungszentrum?",
@@ -595,7 +624,8 @@
           "stop": 12,
           "text": "garching forschungszentrum"
         }
-      ]
+      ],
+      "training": false
     },
     {
       "text": "how can i get from moosach to quiddestraße?",
@@ -613,7 +643,8 @@
           "stop": 7,
           "text": "quiddestraße"
         }
-      ]
+      ],
+      "training": false
     },
     {
       "text": "how can i get from moosach to odeonsplatz?",
@@ -631,7 +662,8 @@
           "stop": 7,
           "text": "odeonsplatz"
         }
-      ]
+      ],
+      "training": false
     },
     {
       "text": "when does the next bus starts at garching?",
@@ -655,7 +687,8 @@
           "stop": 7,
           "text": "garching"
         }
-      ]
+      ],
+      "training": false
     },
     {
       "text": "what's the shortest way from quiddestraße to odeonsplatz?",
@@ -679,7 +712,8 @@
           "stop": 9,
           "text": "odeonsplatz"
         }
-      ]
+      ],
+      "training": false
     },
     {
       "text": "when is the next bus from ostbahnhof",
@@ -703,7 +737,8 @@
           "stop": 6,
           "text": "ostbahnhof"
         }
-      ]
+      ],
+      "training": false
     },
     {
       "text": "how i can get from garching to neuperlach sued",
@@ -721,7 +756,8 @@
           "stop": 8,
           "text": "neuperlach sued"
         }
-      ]
+      ],
+      "training": false
     },
     {
       "text": "when is the next train in munchner freiheit?",
@@ -745,7 +781,8 @@
           "stop": 7,
           "text": "munchner freiheit"
         }
-      ]
+      ],
+      "training": false
     },
     {
       "text": "how i can get from marienplatz to garching?",
@@ -763,7 +800,8 @@
           "stop": 7,
           "text": "garching"
         }
-      ]
+      ],
+      "training": false
     },
     {
       "text": "how do i get from poccistraße to laim",
@@ -781,7 +819,8 @@
           "stop": 7,
           "text": "laim"
         }
-      ]
+      ],
+      "training": false
     },
     {
       "text": "i want to go garching from marienplatz",
@@ -799,7 +838,8 @@
           "stop": 4,
           "text": "garching"
         }
-      ]
+      ],
+      "training": false
     },
     {
       "text": "how i can get from marienplatz to garching?",
@@ -817,7 +857,8 @@
           "stop": 7,
           "text": "garching"
         }
-      ]
+      ],
+      "training": false
     },
     {
       "text": "how can i get from hauptbahnhof to odeonsplatz",
@@ -835,7 +876,8 @@
           "stop": 7,
           "text": "odeonsplatz"
         }
-      ]
+      ],
+      "training": false
     },
     {
       "text": "prinzregentenplatz to rotkreuzplatz",
@@ -853,7 +895,8 @@
           "stop": 2,
           "text": "rotkreuzplatz"
         }
-      ]
+      ],
+      "training": false
     },
     {
       "text": "i want to go to garching from marienplatz",
@@ -871,7 +914,8 @@
           "stop": 5,
           "text": "garching"
         }
-      ]
+      ],
+      "training": false
     },
     {
       "text": "next train from garching",
@@ -895,7 +939,8 @@
           "stop": 3,
           "text": "garching"
         }
-      ]
+      ],
+      "training": false
     },
     {
       "text": "from prinzregentenplatz to rotkreuzplatz",
@@ -913,7 +958,8 @@
           "stop": 3,
           "text": "rotkreuzplatz"
         }
-      ]
+      ],
+      "training": false
     },
     {
       "text": "when is the next subway from garching forschungszentrum",
@@ -937,7 +983,8 @@
           "stop": 7,
           "text": "garching forschungszentrum"
         }
-      ]
+      ],
+      "training": false
     },
     {
       "text": "from garching to klinikum",
@@ -955,7 +1002,8 @@
           "stop": 3,
           "text": "klinikum"
         }
-      ]
+      ],
+      "training": false
     },
     {
       "text": "from garching foschungszentrum to odeonsplatz",
@@ -973,7 +1021,8 @@
           "stop": 4,
           "text": "odeonsplatz"
         }
-      ]
+      ],
+      "training": false
     },
     {
       "text": "next bus in garching",
@@ -997,7 +1046,8 @@
           "stop": 3,
           "text": "garching"
         }
-      ]
+      ],
+      "training": false
     },
     {
       "text": "when does the train leaving in garching forschungszentrum",
@@ -1015,7 +1065,8 @@
           "stop": 7,
           "text": "garching forschungszentrum"
         }
-      ]
+      ],
+      "training": false
     },
     {
       "text": "next subway from garching forschungszentrum",
@@ -1039,7 +1090,8 @@
           "stop": 4,
           "text": "garching forschungszentrum"
         }
-      ]
+      ],
+      "training": false
     },
     {
       "text": "tell me the next bus from garching",
@@ -1063,7 +1115,8 @@
           "stop": 6,
           "text": "garching"
         }
-      ]
+      ],
+      "training": false
     },
     {
       "text": "next bus from garching, please.",
@@ -1087,7 +1140,8 @@
           "stop": 3,
           "text": "garching"
         }
-      ]
+      ],
+      "training": false
     },
     {
       "text": "next bus from garching",
@@ -1111,7 +1165,8 @@
           "stop": 3,
           "text": "garching"
         }
-      ]
+      ],
+      "training": false
     },
     {
       "text": "next bus from central station",
@@ -1135,7 +1190,8 @@
           "stop": 4,
           "text": "central station"
         }
-      ]
+      ],
+      "training": false
     },
     {
       "text": "from garching to marienplatz",
@@ -1153,7 +1209,8 @@
           "stop": 3,
           "text": "marienplatz"
         }
-      ]
+      ],
+      "training": false
     },
     {
       "text": "next bus from garching.",
@@ -1177,7 +1234,8 @@
           "stop": 3,
           "text": "garching"
         }
-      ]
+      ],
+      "training": false
     },
     {
       "text": "connection from garching to hauptbahnhof?",
@@ -1195,7 +1253,8 @@
           "stop": 4,
           "text": "hauptbahnhof"
         }
-      ]
+      ],
+      "training": false
     },
     {
       "text": "when does the next bus departs from garching?",
@@ -1219,7 +1278,8 @@
           "stop": 7,
           "text": "garching"
         }
-      ]
+      ],
+      "training": false
     },
     {
       "text": "find connection from hauptbahnhof to odeonsplatz",
@@ -1237,7 +1297,8 @@
           "stop": 5,
           "text": "odeonsplatz"
         }
-      ]
+      ],
+      "training": false
     },
     {
       "text": "when does the next u-bahn departs at garching forschungszentrum?",
@@ -1261,7 +1322,8 @@
           "stop": 10,
           "text": "garching forschungszentrum"
         }
-      ]
+      ],
+      "training": false
     },
     {
       "text": "when does the next u-bahn departs at garching?",
@@ -1285,7 +1347,8 @@
           "stop": 9,
           "text": "garching"
         }
-      ]
+      ],
+      "training": false
     },
     {
       "text": "when does the next subway departs at garching",
@@ -1309,7 +1372,8 @@
           "stop": 7,
           "text": "garching"
         }
-      ]
+      ],
+      "training": false
     },
     {
       "text": "when is the next train in garching?",
@@ -1333,7 +1397,8 @@
           "stop": 6,
           "text": "garching"
         }
-      ]
+      ],
+      "training": false
     },
     {
       "text": "how to get from münchner freiheit to garching ?",
@@ -1351,7 +1416,8 @@
           "stop": 7,
           "text": "garching"
         }
-      ]
+      ],
+      "training": false
     },
     {
       "text": "implerstraße to ostbahnhof",
@@ -1369,7 +1435,8 @@
           "stop": 2,
           "text": "ostbahnhof"
         }
-      ]
+      ],
+      "training": false
     },
     {
       "text": "how can i get from hauptbahnhof to odeonsplatz?",
@@ -1387,7 +1454,8 @@
           "stop": 7,
           "text": "odeonsplatz"
         }
-      ]
+      ],
+      "training": false
     },
     {
       "text": "how can i go from garching forschungszentrum to prinzregentenplatz",
@@ -1405,7 +1473,8 @@
           "stop": 8,
           "text": "prinzregentenplatz"
         }
-      ]
+      ],
+      "training": false
     },
     {
       "text": "how can i get from mangfallplatz to garching",
@@ -1423,7 +1492,8 @@
           "stop": 7,
           "text": "garching"
         }
-      ]
+      ],
+      "training": false
     },
     {
       "text": "how can i get to hohenlindenerstraße",
@@ -1435,7 +1505,8 @@
           "stop": 5,
           "text": "hohenlindenerstraße"
         }
-      ]
+      ],
+      "training": false
     },
     {
       "text": "harthaus to hackerbrücke",
@@ -1453,7 +1524,8 @@
           "stop": 2,
           "text": "hackerbrücke"
         }
-      ]
+      ],
+      "training": false
     },
     {
       "text": "how can i get from feldmoching to garching forschungszentrum?",
@@ -1471,7 +1543,8 @@
           "stop": 8,
           "text": "garching forschungszentrum"
         }
-      ]
+      ],
+      "training": false
     },
     {
       "text": "from marienplatz to petershausen",
@@ -1489,7 +1562,8 @@
           "stop": 3,
           "text": "petershausen"
         }
-      ]
+      ],
+      "training": false
     },
     {
       "text": "when is the train from garching to marienplatz",
@@ -1513,7 +1587,8 @@
           "stop": 7,
           "text": "marienplatz"
         }
-      ]
+      ],
+      "training": false
     },
     {
       "text": "neufahrn to garching",
@@ -1531,7 +1606,8 @@
           "stop": 2,
           "text": "garching"
         }
-      ]
+      ],
+      "training": false
     },
     {
       "text": "how can i get from mangfallplatz to garching",
@@ -1549,7 +1625,8 @@
           "stop": 7,
           "text": "garching"
         }
-      ]
+      ],
+      "training": false
     },
     {
       "text": "how can i get to hohenlindenerstr",
@@ -1561,7 +1638,8 @@
           "stop": 5,
           "text": "hohenlindenerstr"
         }
-      ]
+      ],
+      "training": false
     },
     {
       "text": "when is the next bus from garching forschungzentrum",
@@ -1585,7 +1663,8 @@
           "stop": 7,
           "text": "garching forschungzentrum"
         }
-      ]
+      ],
+      "training": false
     },
     {
       "text": "how do i get from spitzingplatz to poccistraße?",
@@ -1603,7 +1682,8 @@
           "stop": 7,
           "text": "poccistraße"
         }
-      ]
+      ],
+      "training": false
     },
     {
       "text": "how can i get from garching forschungszentrum to marienplatz",
@@ -1621,7 +1701,8 @@
           "stop": 8,
           "text": "marienplatz"
         }
-      ]
+      ],
+      "training": false
     },
     {
       "text": "how can i get from klinkum to marienplatz?",
@@ -1639,7 +1720,8 @@
           "stop": 7,
           "text": "marienplatz"
         }
-      ]
+      ],
+      "training": false
     },
     {
       "text": "how to get from alte heide to marienplatz",
@@ -1657,7 +1739,8 @@
           "stop": 7,
           "text": "marienplatz"
         }
-      ]
+      ],
+      "training": false
     },
     {
       "text": "next train from muenchen freicheit",
@@ -1681,7 +1764,8 @@
           "stop": 4,
           "text": "muenchen freicheit"
         }
-      ]
+      ],
+      "training": false
     },
     {
       "text": "depart in garching, i assume",
@@ -1693,7 +1777,8 @@
           "stop": 2,
           "text": "garching"
         }
-      ]
+      ],
+      "training": false
     },
     {
       "text": "when does the next u-bahn depart at garching?",
@@ -1717,7 +1802,8 @@
           "stop": 9,
           "text": "garching"
         }
-      ]
+      ],
+      "training": false
     },
     {
       "text": "the next bus from garching forschungzentrum",
@@ -1741,7 +1827,8 @@
           "stop": 5,
           "text": "garching forschungzentrum"
         }
-      ]
+      ],
+      "training": false
     },
     {
       "text": "when is the next train in alte heide?",
@@ -1765,7 +1852,8 @@
           "stop": 7,
           "text": "alte heide"
         }
-      ]
+      ],
+      "training": false
     },
     {
       "text": "or depart from garching",
@@ -1777,7 +1865,8 @@
           "stop": 3,
           "text": "garching"
         }
-      ]
+      ],
+      "training": false
     },
     {
       "text": "hello munich city bot! how do i get from münchner freiheit to scheidplatz?",
@@ -1795,7 +1884,8 @@
           "stop": 13,
           "text": "scheidplatz"
         }
-      ]
+      ],
+      "training": false
     },
     {
       "text": "how can i get from garching forschungszentrum to prinzregentenplatz",
@@ -1813,7 +1903,8 @@
           "stop": 8,
           "text": "prinzregentenplatz"
         }
-      ]
+      ],
+      "training": false
     },
     {
       "text": "how can i get from neufahrn to garching",
@@ -1831,7 +1922,8 @@
           "stop": 7,
           "text": "garching"
         }
-      ]
+      ],
+      "training": false
     },
     {
       "text": "take me to the airport",
@@ -1843,7 +1935,8 @@
           "stop": 4,
           "text": "airport"
         }
-      ]
+      ],
+      "training": false
     },
     {
       "text": "when does the next u6 leave from garching forschungszentrum",
@@ -1867,7 +1960,8 @@
           "stop": 8,
           "text": "garching forschungszentrum"
         }
-      ]
+      ],
+      "training": false
     },
     {
       "text": "how i can get from munchner freiheit to nordfriedhof?",
@@ -1885,7 +1979,8 @@
           "stop": 8,
           "text": "nordfriedhof"
         }
-      ]
+      ],
+      "training": false
     },
     {
       "text": "from harthaus to hackerbrücke",
@@ -1903,7 +1998,8 @@
           "stop": 3,
           "text": "hackerbrücke"
         }
-      ]
+      ],
+      "training": false
     },
     {
       "text": "when is the train from garching",
@@ -1921,7 +2017,8 @@
           "stop": 5,
           "text": "garching"
         }
-      ]
+      ],
+      "training": false
     },
     {
       "text": "what is the next train from münchner freiheit",
@@ -1945,7 +2042,8 @@
           "stop": 7,
           "text": "münchner freiheit"
         }
-      ]
+      ],
+      "training": false
     },
     {
       "text": "how can i get from theresienstrasse to garching forschungszentrum",
@@ -1963,7 +2061,8 @@
           "stop": 8,
           "text": "garching forschungszentrum"
         }
-      ]
+      ],
+      "training": false
     },
     {
       "text": "how can i get from münchner freiheit to odeonsplatz",
@@ -1981,7 +2080,8 @@
           "stop": 8,
           "text": "odeonsplatz"
         }
-      ]
+      ],
+      "training": false
     },
     {
       "text": "from garching to hauptbahnhof",
@@ -1999,7 +2099,8 @@
           "stop": 3,
           "text": "hauptbahnhof"
         }
-      ]
+      ],
+      "training": false
     },
     {
       "text": "how can i get from garching to odeonsplatz",
@@ -2017,7 +2118,8 @@
           "stop": 7,
           "text": "odeonsplatz"
         }
-      ]
+      ],
+      "training": false
     },
     {
       "text": "start: neufahrn end:garching",
@@ -2035,7 +2137,8 @@
           "stop": 5,
           "text": "garching"
         }
-      ]
+      ],
+      "training": false
     },
     {
       "text": "how can i get from studentenstadt to garching",
@@ -2053,7 +2156,8 @@
           "stop": 7,
           "text": "garching"
         }
-      ]
+      ],
+      "training": false
     },
     {
       "text": "when is the next bus from garching",
@@ -2077,7 +2181,8 @@
           "stop": 6,
           "text": "garching"
         }
-      ]
+      ],
+      "training": false
     },
     {
       "text": "take me from hauptbahnhof to odeonsplatz",
@@ -2095,7 +2200,8 @@
           "stop": 5,
           "text": "odeonsplatz"
         }
-      ]
+      ],
+      "training": false
     },
     {
       "text": "what's the shortest connection between quiddestraße and odeonsplatz?",
@@ -2119,7 +2225,8 @@
           "stop": 9,
           "text": "odeonsplatz"
         }
-      ]
+      ],
+      "training": true
     },
     {
       "text": "what is the cheapest connection between quiddestraße and hauptbahnhof?",
@@ -2143,7 +2250,8 @@
           "stop": 8,
           "text": "hauptbahnhof"
         }
-      ]
+      ],
+      "training": true
     },
     {
       "text": "what's the shortest way between hauptbahnhof and odeonsplatz?",
@@ -2167,7 +2275,8 @@
           "stop": 9,
           "text": "odeonsplatz"
         }
-      ]
+      ],
+      "training": true
     },
     {
       "text": "how can i get from garching to münchner freiheit as fast as possible?",
@@ -2191,7 +2300,8 @@
           "stop": 8,
           "text": "münchner freiheit"
         }
-      ]
+      ],
+      "training": true
     },
     {
       "text": "what's the cheapest way from neuperlach süd to lehel?",
@@ -2215,7 +2325,8 @@
           "stop": 10,
           "text": "lehel"
         }
-      ]
+      ],
+      "training": true
     },
     {
       "text": "how can i get from neuperlach zentrum to karlsplatz as fast as possible?",
@@ -2239,7 +2350,8 @@
           "stop": 8,
           "text": "karlsplatz"
         }
-      ]
+      ],
+      "training": true
     },
     {
       "text": "could you give me the fastest connection between brudermühlstraße and alte heide?",
@@ -2263,7 +2375,8 @@
           "stop": 11,
           "text": "alte heide"
         }
-      ]
+      ],
+      "training": true
     },
     {
       "text": "is there a train from neuperlach zentrum to garching at 3 pm?",
@@ -2287,7 +2400,8 @@
           "stop": 8,
           "text": "garching"
         }
-      ]
+      ],
+      "training": true
     },
     {
       "text": "can you find a connection from olympiazentrum to lehel at 2 pm?",
@@ -2311,7 +2425,8 @@
           "stop": 8,
           "text": "lehel"
         }
-      ]
+      ],
+      "training": true
     },
     {
       "text": "i need a connection from harras to karl-preis-platz at 8 am.",
@@ -2335,7 +2450,8 @@
           "stop": 11,
           "text": "karl-preis-platz"
         }
-      ]
+      ],
+      "training": true
     },
     {
       "text": "in need to be at hauptbahnhof at 1 pm, can you search a connection from garching forschungszentrum?",
@@ -2359,7 +2475,8 @@
           "stop": 5,
           "text": "hauptbahnhof"
         }
-      ]
+      ],
+      "training": true
     },
     {
       "text": "i need to be in garching at 9",
@@ -2377,7 +2494,8 @@
           "stop": 5,
           "text": "garching"
         }
-      ]
+      ],
+      "training": true
     },
     {
       "text": "can i take a bus from quiddestraße to hauptbahnhof?",
@@ -2401,7 +2519,8 @@
           "stop": 8,
           "text": "hauptbahnhof"
         }
-      ]
+      ],
+      "training": true
     },
     {
       "text": "can you find the shortest way from moosfeld to milbertshofen?",
@@ -2425,7 +2544,8 @@
           "stop": 9,
           "text": "milbertshofen"
         }
-      ]
+      ],
+      "training": true
     },
     {
       "text": "how can i get to neuperlach süd from garching forschungszentrum?",
@@ -2443,7 +2563,8 @@
           "stop": 6,
           "text": "neuperlach süd"
         }
-      ]
+      ],
+      "training": true
     },
     {
       "text": "can you find a bus from quiddestraße to lehel?",
@@ -2467,7 +2588,8 @@
           "stop": 8,
           "text": "lehel"
         }
-      ]
+      ],
+      "training": true
     },
     {
       "text": "is there a tram from karlsplatz to lehel?",
@@ -2491,7 +2613,8 @@
           "stop": 7,
           "text": "lehel"
         }
-      ]
+      ],
+      "training": true
     },
     {
       "text": "is there a bus from garching to moosach at around 5?",
@@ -2521,7 +2644,8 @@
           "stop": 7,
           "text": "moosach"
         }
-      ]
+      ],
+      "training": true
     },
     {
       "text": "is there a bus from odeonsplatz to hauptbahnhof at 3 pm?",
@@ -2551,7 +2675,8 @@
           "stop": 7,
           "text": "hauptbahnhof"
         }
-      ]
+      ],
+      "training": true
     },
     {
       "text": "can you tell me the cheapest way from garching forschungszentrum to quiddestraße?",
@@ -2575,7 +2700,8 @@
           "stop": 11,
           "text": "quiddestraße"
         }
-      ]
+      ],
+      "training": true
     },
     {
       "text": "how can i get to quiddestraße?",
@@ -2587,7 +2713,8 @@
           "stop": 5,
           "text": "quiddestraße"
         }
-      ]
+      ],
+      "training": true
     },
     {
       "text": "when does the next bus leaves from hauptbahnhof?",
@@ -2611,7 +2738,8 @@
           "stop": 7,
           "text": "hauptbahnhof"
         }
-      ]
+      ],
+      "training": true
     },
     {
       "text": "how can i get from garching to hauptbahnhof?",
@@ -2629,7 +2757,8 @@
           "stop": 7,
           "text": "hauptbahnhof"
         }
-      ]
+      ],
+      "training": true
     },
     {
       "text": "how can i get from kurt-eisner-straße to garching?",
@@ -2647,7 +2776,8 @@
           "stop": 11,
           "text": "garching"
         }
-      ]
+      ],
+      "training": true
     },
     {
       "text": "when the next train in garching,forschungszentrum is leaving?",
@@ -2671,7 +2801,8 @@
           "stop": 7,
           "text": "garching,forschungszentrum"
         }
-      ]
+      ],
+      "training": true
     },
     {
       "text": "what is the next connection from garching forschungszentrum to odeonsplatz?",
@@ -2695,7 +2826,8 @@
           "stop": 9,
           "text": "odeonsplatz"
         }
-      ]
+      ],
+      "training": true
     },
     {
       "text": "how can i get from mossach to garching forschungszentrum?",
@@ -2713,7 +2845,8 @@
           "stop": 8,
           "text": "garching forschungszentrum"
         }
-      ]
+      ],
+      "training": true
     },
     {
       "text": "how can i get from garching forschungszentrum to odeonsplatz?",
@@ -2731,7 +2864,8 @@
           "stop": 8,
           "text": "odeonsplatz"
         }
-      ]
+      ],
+      "training": true
     },
     {
       "text": "how can i get from garching, forschungszentrum to odeonsplatz?",
@@ -2749,7 +2883,8 @@
           "stop": 9,
           "text": "odeonsplatz"
         }
-      ]
+      ],
+      "training": true
     },
     {
       "text": "how can i get from garching forschungszentrum to kurt-eisner-straße?",
@@ -2767,7 +2902,8 @@
           "stop": 12,
           "text": "kurt-eisner-straße"
         }
-      ]
+      ],
+      "training": true
     },
     {
       "text": "how can i get to boltzmannstraße from quiddestraße?",
@@ -2785,7 +2921,8 @@
           "stop": 5,
           "text": "boltzmannstraße"
         }
-      ]
+      ],
+      "training": true
     },
     {
       "text": "when does the next train departs from quiddestraße?",
@@ -2809,7 +2946,8 @@
           "stop": 7,
           "text": "quiddestraße"
         }
-      ]
+      ],
+      "training": true
     },
     {
       "text": "when the next train in garching forschungszentrum is leaving?",
@@ -2833,7 +2971,8 @@
           "stop": 6,
           "text": "garching forschungszentrum"
         }
-      ]
+      ],
+      "training": true
     },
     {
       "text": "when is the next u6 leaving from garching?",
@@ -2851,7 +2990,8 @@
           "stop": 7,
           "text": "garching"
         }
-      ]
+      ],
+      "training": true
     },
     {
       "text": "when does the next train leave from garching forschungszentrum",
@@ -2875,7 +3015,8 @@
           "stop": 8,
           "text": "garching forschungszentrum"
         }
-      ]
+      ],
+      "training": true
     },
     {
       "text": "when is the next u6?",
@@ -2893,7 +3034,8 @@
           "stop": 3,
           "text": "next"
         }
-      ]
+      ],
+      "training": true
     },
     {
       "text": "when is the next subway leaving from garching?",
@@ -2917,7 +3059,8 @@
           "stop": 7,
           "text": "garching"
         }
-      ]
+      ],
+      "training": true
     },
     {
       "text": "when the next train in garching is leaving?",
@@ -2941,7 +3084,8 @@
           "stop": 5,
           "text": "garching"
         }
-      ]
+      ],
+      "training": true
     },
     {
       "text": "when is the next train leaving in garching",
@@ -2965,7 +3109,8 @@
           "stop": 7,
           "text": "garching"
         }
-      ]
+      ],
+      "training": true
     },
     {
       "text": "when does the next train leaves from odeonsplatz?",
@@ -2989,7 +3134,8 @@
           "stop": 7,
           "text": "odeonsplatz"
         }
-      ]
+      ],
+      "training": true
     },
     {
       "text": "when does the next train leaves from quiddestraße?",
@@ -3013,7 +3159,8 @@
           "stop": 7,
           "text": "quiddestraße"
         }
-      ]
+      ],
+      "training": true
     },
     {
       "text": "when is the next train",
@@ -3031,7 +3178,8 @@
           "stop": 3,
           "text": "next"
         }
-      ]
+      ],
+      "training": true
     },
     {
       "text": "when does the next bus leaves at garching forschungszentrum?",
@@ -3055,7 +3203,8 @@
           "stop": 8,
           "text": "garching forschungszentrum"
         }
-      ]
+      ],
+      "training": true
     },
     {
       "text": "when does the next train leaves?",
@@ -3067,7 +3216,8 @@
           "stop": 4,
           "text": "train"
         }
-      ]
+      ],
+      "training": true
     },
     {
       "text": "when does the next bus leave in garching?",
@@ -3091,7 +3241,8 @@
           "stop": 7,
           "text": "garching"
         }
-      ]
+      ],
+      "training": true
     },
     {
       "text": "when does the next s-bahn leaves from hauptbahnhof?",
@@ -3115,7 +3266,8 @@
           "stop": 9,
           "text": "hauptbahnhof"
         }
-      ]
+      ],
+      "training": true
     },
     {
       "text": "when does the next subway departes from odeonsplatz?",
@@ -3139,7 +3291,8 @@
           "stop": 7,
           "text": "odeonsplatz"
         }
-      ]
+      ],
+      "training": true
     },
     {
       "text": "show me the next bus from garching!",
@@ -3163,7 +3316,8 @@
           "stop": 6,
           "text": "garching"
         }
-      ]
+      ],
+      "training": true
     },
     {
       "text": "when does the next tram starts from hauptbahnhof?",
@@ -3187,7 +3341,8 @@
           "stop": 7,
           "text": "hauptbahnhof"
         }
-      ]
+      ],
+      "training": true
     },
     {
       "text": "when will the next u-bahn depart from garching forschungszentrum?",
@@ -3211,7 +3366,8 @@
           "stop": 10,
           "text": "garching forschungszentrum"
         }
-      ]
+      ],
+      "training": true
     },
     {
       "text": "show me the next bus from michaelibad.",
@@ -3235,7 +3391,8 @@
           "stop": 6,
           "text": "michaelibad"
         }
-      ]
+      ],
+      "training": true
     },
     {
       "text": "when does the next train starts at sendlinger tor?",
@@ -3259,7 +3416,8 @@
           "stop": 8,
           "text": "sendlinger tor"
         }
-      ]
+      ],
+      "training": true
     },
     {
       "text": "hey bot, when does the next bus starts at garching?",
@@ -3283,7 +3441,8 @@
           "stop": 10,
           "text": "garching"
         }
-      ]
+      ],
+      "training": true
     },
     {
       "text": "when does the next bus leaves at garching?",
@@ -3307,7 +3466,8 @@
           "stop": 7,
           "text": "garching"
         }
-      ]
+      ],
+      "training": true
     },
     {
       "text": "when is the bus from quiddestraße?",
@@ -3325,7 +3485,8 @@
           "stop": 5,
           "text": "quiddestraße"
         }
-      ]
+      ],
+      "training": true
     },
     {
       "text": "when can i get a bus at mariahilfplatz?",
@@ -3343,7 +3504,8 @@
           "stop": 7,
           "text": "mariahilfplatz"
         }
-      ]
+      ],
+      "training": true
     },
     {
       "text": "when does the next bus leaves at romanplatz?",
@@ -3367,7 +3529,8 @@
           "stop": 7,
           "text": "romanplatz"
         }
-      ]
+      ],
+      "training": true
     },
     {
       "text": "when does the bus to röblingweg starts?",
@@ -3385,7 +3548,8 @@
           "stop": 5,
           "text": "röblingweg"
         }
-      ]
+      ],
+      "training": true
     },
     {
       "text": "next bus from quiddestraße?",
@@ -3409,7 +3573,8 @@
           "stop": 3,
           "text": "quiddestraße"
         }
-      ]
+      ],
+      "training": true
     },
     {
       "text": "when is the next bus leaving from garching?",
@@ -3433,7 +3598,8 @@
           "stop": 7,
           "text": "garching"
         }
-      ]
+      ],
+      "training": true
     },
     {
       "text": "when is the train leaving in garching",
@@ -3451,7 +3617,8 @@
           "stop": 6,
           "text": "garching"
         }
-      ]
+      ],
+      "training": true
     },
     {
       "text": "when is the train leaving in garching?",
@@ -3469,7 +3636,8 @@
           "stop": 6,
           "text": "garching"
         }
-      ]
+      ],
+      "training": true
     },
     {
       "text": "how can i get from garching to odeonsplatz?",
@@ -3487,7 +3655,8 @@
           "stop": 7,
           "text": "odeonsplatz"
         }
-      ]
+      ],
+      "training": true
     },
     {
       "text": "when is adrians next subway leaving at garching forschungszentrum?",
@@ -3511,7 +3680,8 @@
           "stop": 8,
           "text": "garching forschungszentrum"
         }
-      ]
+      ],
+      "training": true
     },
     {
       "text": "how can i get from olympiazentrum to hauptbahnhof?",
@@ -3529,7 +3699,8 @@
           "stop": 7,
           "text": "hauptbahnhof"
         }
-      ]
+      ],
+      "training": true
     },
     {
       "text": "how can i get from quiddestraße to boltzmannstraße?",
@@ -3547,7 +3718,8 @@
           "stop": 7,
           "text": "boltzmannstraße"
         }
-      ]
+      ],
+      "training": true
     },
     {
       "text": "how can i get from moosach to garching forschungszentrum?",
@@ -3565,7 +3737,8 @@
           "stop": 8,
           "text": "garching forschungszentrum"
         }
-      ]
+      ],
+      "training": true
     },
     {
       "text": "can you give me a connection from garching to odeonsplatz?",
@@ -3583,7 +3756,8 @@
           "stop": 9,
           "text": "odeonsplatz"
         }
-      ]
+      ],
+      "training": true
     },
     {
       "text": "when is the next train from garching",
@@ -3607,7 +3781,8 @@
           "stop": 6,
           "text": "garching"
         }
-      ]
+      ],
+      "training": true
     },
     {
       "text": "when comes the next train",
@@ -3625,7 +3800,8 @@
           "stop": 3,
           "text": "next"
         }
-      ]
+      ],
+      "training": true
     },
     {
       "text": "when is the next train in nordfriedhof",
@@ -3649,7 +3825,8 @@
           "stop": 6,
           "text": "nordfriedhof"
         }
-      ]
+      ],
+      "training": true
     },
     {
       "text": "when does the next train come at garching forschungszentrum",
@@ -3673,7 +3850,8 @@
           "stop": 8,
           "text": "garching forschungszentrum"
         }
-      ]
+      ],
+      "training": true
     },
     {
       "text": "when is the next train from nordfriedhof to garching forschungszentrum",
@@ -3703,7 +3881,8 @@
           "stop": 9,
           "text": "garching forschungszentrum"
         }
-      ]
+      ],
+      "training": true
     },
     {
       "text": "i want to travel from garching to odeonsplatz?",
@@ -3721,7 +3900,8 @@
           "stop": 7,
           "text": "odeonsplatz"
         }
-      ]
+      ],
+      "training": true
     },
     {
       "text": "how can i get to sendlinger tor?",
@@ -3733,7 +3913,8 @@
           "stop": 6,
           "text": "sendlinger tor"
         }
-      ]
+      ],
+      "training": true
     },
     {
       "text": "how do i get to untere straussäcker?",
@@ -3745,7 +3926,8 @@
           "stop": 6,
           "text": "untere straussäcker"
         }
-      ]
+      ],
+      "training": true
     },
     {
       "text": "how can i get from garching to garching?",
@@ -3763,7 +3945,8 @@
           "stop": 7,
           "text": "garching"
         }
-      ]
+      ],
+      "training": true
     },
     {
       "text": "how can i get from garching to sendlinger tor?",
@@ -3781,7 +3964,8 @@
           "stop": 8,
           "text": "sendlinger tor"
         }
-      ]
+      ],
+      "training": true
     },
     {
       "text": "how can i get from garchingto garching?",
@@ -3799,7 +3983,8 @@
           "stop": 6,
           "text": "garching"
         }
-      ]
+      ],
+      "training": true
     },
     {
       "text": "when is the next train from garching",
@@ -3823,7 +4008,8 @@
           "stop": 6,
           "text": "garching"
         }
-      ]
+      ],
+      "training": true
     },
     {
       "text": "how do i get from marienplatz zu garching",
@@ -3841,7 +4027,8 @@
           "stop": 7,
           "text": "garching"
         }
-      ]
+      ],
+      "training": true
     },
     {
       "text": "how can i get to milbertshofen from garching?",
@@ -3859,7 +4046,8 @@
           "stop": 5,
           "text": "milbertshofen"
         }
-      ]
+      ],
+      "training": true
     },
     {
       "text": "when is the next train to garching",
@@ -3883,7 +4071,8 @@
           "stop": 6,
           "text": "garching"
         }
-      ]
+      ],
+      "training": true
     },
     {
       "text": "how can i get from garching to milbertshofen?",
@@ -3901,7 +4090,8 @@
           "stop": 7,
           "text": "milbertshofen"
         }
-      ]
+      ],
+      "training": true
     },
     {
       "text": "when does the next rocket leaves from garching forschungszentrum?",
@@ -3925,7 +4115,8 @@
           "stop": 8,
           "text": "garching forschungszentrum"
         }
-      ]
+      ],
+      "training": true
     },
     {
       "text": "connection from untere straßäcker 21 to kieferngarten",
@@ -3943,7 +4134,8 @@
           "stop": 6,
           "text": "kieferngarten"
         }
-      ]
+      ],
+      "training": true
     },
     {
       "text": "how to get from untere strassäcker 21 to frötmaning",
@@ -3961,7 +4153,8 @@
           "stop": 8,
           "text": "frötmaning"
         }
-      ]
+      ],
+      "training": true
     },
     {
       "text": "how to get from untere strassaecker 21 to frötmaning",
@@ -3979,7 +4172,8 @@
           "stop": 8,
           "text": "frötmaning"
         }
-      ]
+      ],
+      "training": true
     },
     {
       "text": "when is the next train from untere straßaecker 21 to kieferngarten",
@@ -4009,7 +4203,8 @@
           "stop": 10,
           "text": "kieferngarten"
         }
-      ]
+      ],
+      "training": true
     },
     {
       "text": "when is the next train from untere straßaecker 21, garching to kieferngarten",
@@ -4039,7 +4234,8 @@
           "stop": 12,
           "text": "kieferngarten"
         }
-      ]
+      ],
+      "training": true
     },
     {
       "text": "from garching to perlach",
@@ -4057,7 +4253,8 @@
           "stop": 3,
           "text": "perlach"
         }
-      ]
+      ],
+      "training": true
     },
     {
       "text": "how to get from garching to perlach?",
@@ -4075,7 +4272,8 @@
           "stop": 6,
           "text": "perlach"
         }
-      ]
+      ],
+      "training": true
     },
     {
       "text": "how to get from bonnerplatz to freimann",
@@ -4093,7 +4291,8 @@
           "stop": 6,
           "text": "freimann"
         }
-      ]
+      ],
+      "training": true
     },
     {
       "text": "when is the next train in nordfriedhof?",
@@ -4117,7 +4316,8 @@
           "stop": 6,
           "text": "nordfriedhof"
         }
-      ]
+      ],
+      "training": true
     },
     {
       "text": "when is the next train in münchner freiheit?",
@@ -4141,7 +4341,8 @@
           "stop": 7,
           "text": "münchner freiheit"
         }
-      ]
+      ],
+      "training": true
     },
     {
       "text": "connection from hauptbahnhof to odeonsplatz?",
@@ -4159,7 +4360,8 @@
           "stop": 4,
           "text": "odeonsplatz"
         }
-      ]
+      ],
+      "training": true
     },
     {
       "text": "how do i get from olympia einkaufszentrum to hauptbahnhof?",
@@ -4177,7 +4379,8 @@
           "stop": 8,
           "text": "hauptbahnhof"
         }
-      ]
+      ],
+      "training": true
     },
     {
       "text": "when is the next bus in garching forschungszentrum",
@@ -4201,7 +4404,8 @@
           "stop": 7,
           "text": "garching forschungszentrum"
         }
-      ]
+      ],
+      "training": true
     },
     {
       "text": "how can i get from garching to marienplatz",
@@ -4219,7 +4423,8 @@
           "stop": 7,
           "text": "marienplatz"
         }
-      ]
+      ],
+      "training": true
     },
     {
       "text": "from garching to studentenstadt",
@@ -4237,7 +4442,8 @@
           "stop": 3,
           "text": "studentenstadt"
         }
-      ]
+      ],
+      "training": true
     }
   ]
 }
