@@ -24,12 +24,12 @@ All three corpora are released under the CC BY-SA 3.0 license.
 ## Content
 
 ### Ask Ubuntu Corpus
-190 questions and answers from https://askubuntu.com.
+162 questions and answers from https://askubuntu.com.
 
 Five intents (MakeUpdate, SetupPrinter, ShutdownComputer, SoftwareRecommendation, None) and three entity types (Printer, Software, Version).
 
 ### Web Applications Corpus
-100 questions and answers from https://webapps.stackexchange.com.
+89 questions and answers from https://webapps.stackexchange.com.
 
 Eight intents (ChangePassword, DeleteAccount, DownloadVideo, ExportData, FilterSpam, FindAlternative, SyncAccounts, None) and three entity types (WebService, OS, Browser).
 
