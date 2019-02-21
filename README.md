@@ -18,6 +18,11 @@ If you use the data and publish please let us know and cite our [SIGdial 2017 pa
 
 ```
 
+## Errata
+There is an error in Table 5 of the paper. In the "true +" column, the overall sum should be 573, not 820, and accordingly precision, recall, and f-score are 0.92, 0.85, and 0.88.
+
+[The reason for this error is in the Excel evaluation sheet, the total number of "true +" (573) was stored as number of "true +" for the chatbot corpus. Added up with the result for the other corpora (77, 170) we end up with 820.]
+
 ## License
 All three corpora are released under the CC BY-SA 3.0 license.
 
