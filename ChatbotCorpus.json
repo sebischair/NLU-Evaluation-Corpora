@@ -3760,31 +3760,6 @@
       "training": true
     },
     {
-      "text": "when is the next train from garching",
-      "intent": "DepartureTime",
-      "entities": [
-        {
-          "entity": "Vehicle",
-          "start": 4,
-          "stop": 4,
-          "text": "train"
-        },
-        {
-          "entity": "Criterion",
-          "start": 3,
-          "stop": 3,
-          "text": "next"
-        },
-        {
-          "entity": "StationStart",
-          "start": 6,
-          "stop": 6,
-          "text": "garching"
-        }
-      ],
-      "training": true
-    },
-    {
       "text": "when comes the next train",
       "intent": "DepartureTime",
       "entities": [
